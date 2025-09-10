@@ -1,0 +1,35 @@
+PACKAGE 'pinheader_2x07_p1_27mm_vertical'
+CLASS IC
+PINCOUNT 14
+PINORDER MAIN ,
+	NC__1,
+	NC__2,
+	VCC__3,
+	JTMS/SWDIO__4,
+	GND__5,
+	JCLK/SWCLK__6,
+	GND__7,
+	JTDO/SWO__8,
+	JRCLK/NC__9,
+	JTDI/NC__10,
+	GNDDetect__11,
+	??RST?__12,
+	VCP_RX__13,
+	VCP_TX__14
+FUNCTION MAIN MAIN ,
+	1,
+	2,
+	3,
+	4,
+	5,
+	6,
+	7,
+	8,
+	9,
+	10,
+	11,
+	12,
+	13,
+	14
+PACKAGEPROP VALUE Conn_ST_STDC14
+END

@@ -1,0 +1,55 @@
+PCB statistics report
+=====================
+- Date: Mon Sep  8 09:43:07 2025
+- Project: OpenAirScope
+- Board name: OpenAirScope
+
+Board
+-----
+- Width: 100.0000 mm
+- Height: 75.0000 mm
+- Area: 7367.3152 mm²
+
+Pads
+----
+- Through hole: 102
+- SMD: 849
+- Connector: 0
+- NPTH: 8
+
+Vias
+----
+- Through vias: 473
+- Blind/buried: 0
+- Micro vias: 0
+
+Components
+----------
+
+|              | Front Side | Back Side | Total |
+|--------------|------------|-----------|-------|
+|THT:          |         16 |         0 |    16 |
+|SMD:          |        207 |        34 |   241 |
+|Unspecified:  |         20 |         5 |    25 |
+|Total:        |        243 |        39 |   282 |
+
+Drill holes
+-----------
+
+| Count | Shape |    X Size |    Y Size | Plated | Via/Pad | Start Layer | Stop Layer |
+|-------|-------|-----------|-----------|--------|---------|-------------|------------|
+|   249 | Round | 0.3000 mm | 0.3000 mm |    PTH |     Via |        F.Cu |       B.Cu |
+|   217 | Round | 0.2500 mm | 0.2500 mm |    PTH |     Via |        F.Cu |       B.Cu |
+|    40 | Round | 1.0000 mm | 1.0000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|    16 | Round | 1.1000 mm | 1.1000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|    16 | Round | 0.2000 mm | 0.2000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|    14 | Round | 0.6500 mm | 0.6500 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     7 | Round | 0.5000 mm | 0.5000 mm |    PTH |     Via |        F.Cu |       B.Cu |
+|     5 | Round | 0.7300 mm | 0.7300 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     4 | Round | 3.2000 mm | 3.2000 mm |   NPTH |     Pad |        F.Cu |       B.Cu |
+|     4 | Round | 1.6500 mm | 1.6500 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     4 | Round | 1.2000 mm | 1.2000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     2 | Round | 0.8000 mm | 0.8000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     2 | Round | 0.6500 mm | 0.6500 mm |   NPTH |     Pad |        F.Cu |       B.Cu |
+|     2 | Round | 0.5000 mm | 0.5000 mm |   NPTH |     Pad |         N/A |        N/A |
+|     1 | Round | 1.5500 mm | 1.5500 mm |    PTH |     Pad |        F.Cu |       B.Cu |

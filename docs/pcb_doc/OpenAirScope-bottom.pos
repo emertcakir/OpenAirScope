@@ -1,0 +1,40 @@
+### Footprint positions - created on 2025-09-08T10:59:42+0300 ###
+### Printed by KiCad version 9.0.2
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val            Package                              PosX       PosY       Rot  Side
+C18       22uF           C_1206_3216Metric                 41.0400    11.2900    0.0000  bottom
+C19       10uF           C_1206_3216Metric                 46.5200     7.6600  -90.0000  bottom
+C57       10uF           C_1206_3216Metric                 80.3900    30.3924  180.0000  bottom
+C58       100nF          C_0603_1608Metric                 81.1400    28.4924  180.0000  bottom
+C59       100pF          C_0603_1608Metric                 79.8900    19.4600  180.0000  bottom
+C60       4.7uF          C_0805_2012Metric                 72.5900    21.4600   90.0000  bottom
+C61       100nF          C_0603_1608Metric                 70.7400    21.3100   90.0000  bottom
+C62       100pF          C_0603_1608Metric                 82.9900    19.4600  180.0000  bottom
+C75       10uF           C_0603_1608Metric                  2.3650    21.5100    0.0000  bottom
+C76       100nF          C_0603_1608Metric                  2.3350    23.0500    0.0000  bottom
+D6        PESD1CAN_215   SOT-23-3                          81.4000     4.6600  -90.0000  bottom
+D7        SM712_SOT23    SOT-23                            65.9900    14.5600  -90.0000  bottom
+FID6      Fiducial       Fiducial_1mm_Mask2mm              68.1500    63.0600  180.0000  bottom
+FID8      Fiducial       Fiducial_1mm_Mask2mm              65.6900    27.7600  180.0000  bottom
+FID9      Fiducial       Fiducial_1mm_Mask2mm              86.5900    23.9600  180.0000  bottom
+FID10     Fiducial       Fiducial_1mm_Mask2mm               7.4900     0.5600  180.0000  bottom
+J11       Micro_SD_Card  microSD_HC_Wuerth_693072010801     3.2050    32.2950  -90.0000  bottom
+L3        WE-SL2         WE-SL2                            81.2900    13.0667  -90.0000  bottom
+R31       0R             R_0603_1608Metric                 77.1300    13.1450   90.0000  bottom
+R32       120R           R_0603_1608Metric                 81.3700     7.2700  180.0000  bottom
+R33       10k            R_0603_1608Metric                 64.2150    18.8600  180.0000  bottom
+R34       0R             R_0603_1608Metric                 76.0900    22.4600   90.0000  bottom
+R35       10k            R_0603_1608Metric                 60.1900    20.3600  180.0000  bottom
+R36       10k            R_0603_1608Metric                 60.1400    22.9100  180.0000  bottom
+R37       10k            R_0603_1608Metric                 60.1400    24.4100  180.0000  bottom
+R38       0R             R_0603_1608Metric                 77.6900    22.4600  -90.0000  bottom
+R39       0R             R_0603_1608Metric                 85.4800    13.1450   90.0000  bottom
+R40       120R           R_0603_1608Metric                 65.9400    17.3600  180.0000  bottom
+R41       10k            R_0603_1608Metric                 67.6400    18.8600  180.0000  bottom
+R45       10k            R_0603_1608Metric                  1.8662    41.9784   90.0000  bottom
+R46       10k            R_0603_1608Metric                  4.5521    42.0044   90.0000  bottom
+U4        LD39150DT33-R  TO-252-3_TabPin2                  41.7850     3.6450  -90.0000  bottom
+U9        SN65HVD230     SOIC-8_3.9x4.9mm_P1.27mm          81.4900    23.9600  -90.0000  bottom
+U10       MAX3485        SOIC-8_3.9x4.9mm_P1.27mm          66.1900    22.3600    0.0000  bottom
+## End

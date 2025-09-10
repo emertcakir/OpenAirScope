@@ -1,0 +1,25 @@
+PACKAGE 'microsd_hc_wuerth_693072010801'
+CLASS IC
+PINCOUNT 9
+PINORDER MAIN ,
+	DAT2__1,
+	DAT3/CD__2,
+	CMD__3,
+	VDD__4,
+	CLK__5,
+	VSS__6,
+	DAT0__7,
+	DAT1__8,
+	SHIELD__9
+FUNCTION MAIN MAIN ,
+	1,
+	2,
+	3,
+	4,
+	5,
+	6,
+	7,
+	8,
+	9
+PACKAGEPROP VALUE Micro_SD_Card
+END

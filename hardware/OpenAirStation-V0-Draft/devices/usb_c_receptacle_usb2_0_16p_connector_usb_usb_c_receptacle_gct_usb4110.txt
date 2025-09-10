@@ -1,0 +1,41 @@
+PACKAGE 'usb_c_receptacle_gct_usb4110'
+CLASS IC
+PINCOUNT 17
+PINORDER MAIN ,
+	GND__A1,
+	VBUS__A4,
+	CC1__A5,
+	D+__A6,
+	D-__A7,
+	SBU1__A8,
+	VBUS__A9,
+	GND__A12,
+	GND__B1,
+	VBUS__B4,
+	CC2__B5,
+	D+__B6,
+	D-__B7,
+	SBU2__B8,
+	VBUS__B9,
+	GND__B12,
+	SHIELD__S1
+FUNCTION MAIN MAIN ,
+	A1,
+	A4,
+	A5,
+	A6,
+	A7,
+	A8,
+	A9,
+	A12,
+	B1,
+	B4,
+	B5,
+	B6,
+	B7,
+	B8,
+	B9,
+	B12,
+	S1
+PACKAGEPROP VALUE 'USB_C_Receptacle_USB2.0_16P'
+END

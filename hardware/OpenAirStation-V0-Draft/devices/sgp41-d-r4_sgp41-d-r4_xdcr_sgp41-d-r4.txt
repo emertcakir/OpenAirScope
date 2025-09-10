@@ -1,0 +1,21 @@
+PACKAGE 'xdcr_sgp41-d-r4'
+CLASS IC
+PINCOUNT 7
+PINORDER MAIN ,
+	VDD__1,
+	VSS__2,
+	SDA__3,
+	N/A__4,
+	VDDH__5,
+	SCL__6,
+	EXP__7
+FUNCTION MAIN MAIN ,
+	1,
+	2,
+	3,
+	4,
+	5,
+	6,
+	7
+PACKAGEPROP VALUE 'SGP41-D-R4'
+END

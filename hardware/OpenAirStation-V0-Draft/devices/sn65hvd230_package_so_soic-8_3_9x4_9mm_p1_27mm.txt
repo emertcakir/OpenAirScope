@@ -1,0 +1,23 @@
+PACKAGE 'soic-8_3_9x4_9mm_p1_27mm'
+CLASS IC
+PINCOUNT 8
+PINORDER MAIN ,
+	D__1,
+	GND__2,
+	VCC__3,
+	R__4,
+	Vref__5,
+	CANL__6,
+	CANH__7,
+	Rs__8
+FUNCTION MAIN MAIN ,
+	1,
+	2,
+	3,
+	4,
+	5,
+	6,
+	7,
+	8
+PACKAGEPROP VALUE SN65HVD230
+END

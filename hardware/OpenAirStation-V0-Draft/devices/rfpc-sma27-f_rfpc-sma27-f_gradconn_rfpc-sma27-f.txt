@@ -1,0 +1,17 @@
+PACKAGE 'gradconn_rfpc-sma27-f'
+CLASS IC
+PINCOUNT 5
+PINORDER MAIN ,
+	?__1,
+	?__G1,
+	?__G2,
+	?__G3,
+	?__G4
+FUNCTION MAIN MAIN ,
+	1,
+	G1,
+	G2,
+	G3,
+	G4
+PACKAGEPROP VALUE 'RFPC-SMA27-F'
+END

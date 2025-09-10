@@ -1,0 +1,17 @@
+PACKAGE 'jst_s5b-zr_lf__sn_'
+CLASS IC
+PINCOUNT 5
+PINORDER MAIN ,
+	1__1,
+	2__2,
+	3__3,
+	4__4,
+	5__5
+FUNCTION MAIN MAIN ,
+	1,
+	2,
+	3,
+	4,
+	5
+PACKAGEPROP VALUE 'S5B-ZR_LF__SN_'
+END

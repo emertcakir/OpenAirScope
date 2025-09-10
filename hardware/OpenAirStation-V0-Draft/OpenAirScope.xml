@@ -1,0 +1,1309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\ergun.mert.cakir\Desktop\OpenAirScope\hardware\OpenAirScope\OpenAirScope.kicad_sch</source>
+    <date>2025-08-12T09:14:31+0300</date>
+    <tool>Eeschema 9.0.2</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>OpenAirScope.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/Power/" tstamps="/13f48eb0-9287-43f9-a180-7602385f6b34/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Power.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/MCU/" tstamps="/0843342f-a866-4a84-93d0-8302bb966744/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>MCU.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/Conn/" tstamps="/707bb38c-4ffc-4310-9eb8-22883a2a1be7/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Conn.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="5" name="/AirSensors/" tstamps="/9769b1c9-331c-4926-8ccb-0dfa1f6f54e5/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>AirSensors.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="6" name="/Display-RTC/" tstamps="/d7aa0122-6b3a-4516-b9e9-5def2eb68d1c/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Display-RTC.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="7" name="/Connector-Mechanical/" tstamps="/5c34b41f-3852-4ed4-b4c1-99fde0a69729/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Connector-Mechanical.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="U5">
+      <value>LD39150DT33-R</value>
+      <footprint>Package_TO_SOT_SMD:TO-252-3_TabPin2</footprint>
+      <datasheet>https://www.st.com/resource/en/datasheet/ld39150.pdf</datasheet>
+      <description>1.5A Ultra Low Dropout regulator, positive, 3.3V fixed output, TO-252</description>
+      <fields>
+        <field name="Footprint">Package_TO_SOT_SMD:TO-252-3_TabPin2</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/ld39150.pdf</field>
+        <field name="Description">1.5A Ultra Low Dropout regulator, positive, 3.3V fixed output, TO-252</field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="LD39150DT33" description="1.5A Ultra Low Dropout regulator, positive, 3.3V fixed output, TO-252"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <property name="ki_keywords" value="linear regulator ldo fixed positive"/>
+      <property name="ki_fp_filters" value="TO?252*TabPin2*"/>
+      <sheetpath names="/Power/" tstamps="/13f48eb0-9287-43f9-a180-7602385f6b34/"/>
+      <tstamps>8b6da127-c3a6-4fef-ba03-3e525db97eee</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>MCP73871</value>
+      <footprint>Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias</footprint>
+      <datasheet>http://www.mouser.com/ds/2/268/22090a-52174.pdf</datasheet>
+      <description>Single cell, Li-Ion/Li-Po charge management controller</description>
+      <fields>
+        <field name="Footprint">Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias</field>
+        <field name="Datasheet">http://www.mouser.com/ds/2/268/22090a-52174.pdf</field>
+        <field name="Description">Single cell, Li-Ion/Li-Po charge management controller</field>
+      </fields>
+      <libsource lib="Battery_Management" part="MCP73871" description="Single cell, Li-Ion/Li-Po charge management controller"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <property name="ki_keywords" value="battery charger lithium"/>
+      <property name="ki_fp_filters" value="QFN*4x4mm*P0.5mm*"/>
+      <sheetpath names="/Power/" tstamps="/13f48eb0-9287-43f9-a180-7602385f6b34/"/>
+      <tstamps>668eb217-1961-4ceb-9f1a-153b0871c812</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>STM32H743ZITx</value>
+      <footprint>Package_QFP:LQFP-144_20x20mm_P0.5mm</footprint>
+      <datasheet>https://www.st.com/resource/en/datasheet/stm32h743zi.pdf</datasheet>
+      <description>STMicroelectronics Arm Cortex-M7 MCU, 2048KB flash, 1024KB RAM, 480 MHz, 1.62-3.6V, 114 GPIO, LQFP144</description>
+      <fields>
+        <field name="Footprint">Package_QFP:LQFP-144_20x20mm_P0.5mm</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/stm32h743zi.pdf</field>
+        <field name="Description">STMicroelectronics Arm Cortex-M7 MCU, 2048KB flash, 1024KB RAM, 480 MHz, 1.62-3.6V, 114 GPIO, LQFP144</field>
+      </fields>
+      <libsource lib="MCU_ST_STM32H7" part="STM32H743ZITx" description="STMicroelectronics Arm Cortex-M7 MCU, 2048KB flash, 1024KB RAM, 480 MHz, 1.62-3.6V, 114 GPIO, LQFP144"/>
+      <property name="Sheetname" value="MCU"/>
+      <property name="Sheetfile" value="MCU.kicad_sch"/>
+      <property name="ki_keywords" value="Arm Cortex-M7 STM32H7 STM32H743/753"/>
+      <property name="ki_fp_filters" value="LQFP*20x20mm*P0.5mm*"/>
+      <sheetpath names="/MCU/" tstamps="/0843342f-a866-4a84-93d0-8302bb966744/"/>
+      <tstamps>3e2c6890-212e-4456-9888-54a2ed4a7ee0</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>ESP32-WROOM-32</value>
+      <footprint>RF_Module:ESP32-WROOM-32</footprint>
+      <datasheet>https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf</datasheet>
+      <description>RF Module, ESP32-D0WDQ6 SoC, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 2.7-3.6V, onboard antenna, SMD</description>
+      <fields>
+        <field name="Footprint">RF_Module:ESP32-WROOM-32</field>
+        <field name="Datasheet">https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf</field>
+        <field name="Description">RF Module, ESP32-D0WDQ6 SoC, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 2.7-3.6V, onboard antenna, SMD</field>
+      </fields>
+      <libsource lib="RF_Module" part="ESP32-WROOM-32" description="RF Module, ESP32-D0WDQ6 SoC, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 2.7-3.6V, onboard antenna, SMD"/>
+      <property name="Sheetname" value="Conn"/>
+      <property name="Sheetfile" value="Conn.kicad_sch"/>
+      <property name="ki_keywords" value="RF Radio BT ESP ESP32 Espressif onboard PCB antenna"/>
+      <property name="ki_fp_filters" value="ESP32?WROOM?32*"/>
+      <sheetpath names="/Conn/" tstamps="/707bb38c-4ffc-4310-9eb8-22883a2a1be7/"/>
+      <tstamps>51523092-4412-43be-b8a0-8864d34574a2</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>DS3231M</value>
+      <footprint>Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm</footprint>
+      <datasheet>http://datasheets.maximintegrated.com/en/ds/DS3231.pdf</datasheet>
+      <description>Extremely Accurate I2C-Integrated RTC/TCXO/Crystal SOIC-16</description>
+      <fields>
+        <field name="Footprint">Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm</field>
+        <field name="Datasheet">http://datasheets.maximintegrated.com/en/ds/DS3231.pdf</field>
+        <field name="Description">Extremely Accurate I2C-Integrated RTC/TCXO/Crystal SOIC-16</field>
+      </fields>
+      <libsource lib="Timer_RTC" part="DS3231M" description="Extremely Accurate I2C-Integrated RTC/TCXO/Crystal SOIC-16"/>
+      <property name="Sheetname" value="Conn"/>
+      <property name="Sheetfile" value="Conn.kicad_sch"/>
+      <property name="ki_keywords" value="RTC TCXO Realtime Time Clock Crystal Oscillator I2C"/>
+      <property name="ki_fp_filters" value="SOIC*7.5x10.3mm*P1.27mm*"/>
+      <sheetpath names="/Conn/" tstamps="/707bb38c-4ffc-4310-9eb8-22883a2a1be7/"/>
+      <tstamps>18cf5b6d-b560-4955-9232-afdabff2d3b6</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>MCP73831T-3ACI/MC</value>
+      <footprint>Package_DFN_QFN:DFN-8-1EP_3x2mm_P0.5mm_EP1.7x1.4mm</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf</datasheet>
+      <description>Single cell, Li-Ion/Li-Po charge management controller, 4.20V, Tri-State Status Output, in DFN-8 package</description>
+      <fields>
+        <field name="Footprint">Package_DFN_QFN:DFN-8-1EP_3x2mm_P0.5mm_EP1.7x1.4mm</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf</field>
+        <field name="Description">Single cell, Li-Ion/Li-Po charge management controller, 4.20V, Tri-State Status Output, in DFN-8 package</field>
+      </fields>
+      <libsource lib="Battery_Management" part="MCP73831-2-MC" description="Single cell, Li-Ion/Li-Po charge management controller, 4.20V, Tri-State Status Output, in DFN-8 package"/>
+      <property name="Sheetname" value="Conn"/>
+      <property name="Sheetfile" value="Conn.kicad_sch"/>
+      <property name="ki_keywords" value="battery charger lithium"/>
+      <property name="ki_fp_filters" value="DFN*3x2mm*P0.5mm*EP1.7x1.4mm*"/>
+      <sheetpath names="/Conn/" tstamps="/707bb38c-4ffc-4310-9eb8-22883a2a1be7/"/>
+      <tstamps>e73327d5-a0c6-4f54-81e6-718a7da09c8b</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>TPS61023DRLT</value>
+      <footprint>TPS61023DRLT (1):SOT50P160X60-6N</footprint>
+      <fields>
+        <field name="MF">Texas Instruments</field>
+        <field name="Description_1">3.7-A boost converter with 0.5-V ultra-low input voltage</field>
+        <field name="Package">SOT-5X3-6 Texas Instruments</field>
+        <field name="Price">None</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/TPS61023DRLT/Texas+Instruments/view-part/?ref=snap</field>
+        <field name="MP">TPS61023DRLT</field>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/TPS61023DRLT/Texas+Instruments/view-part/?ref=eda</field>
+        <field name="Footprint">TPS61023DRLT (1):SOT50P160X60-6N</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="TPS61023DRLT" part="TPS61023DRLT" description=""/>
+      <property name="MF" value="Texas Instruments"/>
+      <property name="Description_1" value="3.7-A boost converter with 0.5-V ultra-low input voltage"/>
+      <property name="Package" value="SOT-5X3-6 Texas Instruments"/>
+      <property name="Price" value="None"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/TPS61023DRLT/Texas+Instruments/view-part/?ref=snap"/>
+      <property name="MP" value="TPS61023DRLT"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/TPS61023DRLT/Texas+Instruments/view-part/?ref=eda"/>
+      <property name="Sheetname" value="Conn"/>
+      <property name="Sheetfile" value="Conn.kicad_sch"/>
+      <sheetpath names="/Conn/" tstamps="/707bb38c-4ffc-4310-9eb8-22883a2a1be7/"/>
+      <tstamps>58fb7394-78b0-440f-be17-4b548126ef2b</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Battery_Management" part="MCP73831-2-MC">
+      <description>Single cell, Li-Ion/Li-Po charge management controller, 4.20V, Tri-State Status Output, in DFN-8 package</description>
+      <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf</docs>
+      <footprints>
+        <fp>DFN*3x2mm*P0.5mm*EP1.7x1.4mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MCP73831-2-MC</field>
+        <field name="Footprint">Package_DFN_QFN:DFN-8-1EP_3x2mm_P0.5mm_EP1.7x1.4mm</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf</field>
+        <field name="Description">Single cell, Li-Ion/Li-Po charge management controller, 4.20V, Tri-State Status Output, in DFN-8 package</field>
+      </fields>
+      <pins>
+        <pin num="1" name="V_{DD}" type="passive"/>
+        <pin num="2" name="V_{DD}" type="power_in"/>
+        <pin num="3" name="V_{BAT}" type="power_out"/>
+        <pin num="4" name="V_{BAT}" type="passive"/>
+        <pin num="5" name="STAT" type="tri_state"/>
+        <pin num="6" name="V_{SS}" type="power_in"/>
+        <pin num="7" name="NC" type="no_connect"/>
+        <pin num="8" name="PROG" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Battery_Management" part="MCP73871">
+      <description>Single cell, Li-Ion/Li-Po charge management controller</description>
+      <docs>http://www.mouser.com/ds/2/268/22090a-52174.pdf</docs>
+      <footprints>
+        <fp>QFN*4x4mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MCP73871</field>
+        <field name="Footprint">Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm</field>
+        <field name="Datasheet">http://www.mouser.com/ds/2/268/22090a-52174.pdf</field>
+        <field name="Description">Single cell, Li-Ion/Li-Po charge management controller</field>
+      </fields>
+      <pins>
+        <pin num="1" name="OUT" type="power_out"/>
+        <pin num="2" name="VPCC" type="input"/>
+        <pin num="3" name="SEL" type="input"/>
+        <pin num="4" name="PROG2" type="input"/>
+        <pin num="5" name="THERM" type="bidirectional"/>
+        <pin num="6" name="~{PG}" type="open_collector"/>
+        <pin num="7" name="STAT2" type="open_collector"/>
+        <pin num="8" name="STAT1/~{LBO}" type="open_collector"/>
+        <pin num="9" name="~{TE}" type="input"/>
+        <pin num="10" name="V_{SS}" type="power_in"/>
+        <pin num="11" name="V_{SS}" type="passive"/>
+        <pin num="12" name="PROG3" type="bidirectional"/>
+        <pin num="13" name="PROG1" type="bidirectional"/>
+        <pin num="14" name="V_{BAT}" type="power_out"/>
+        <pin num="15" name="V_{BAT}" type="passive"/>
+        <pin num="16" name="V_{BAT_SENSE}" type="input"/>
+        <pin num="17" name="CE" type="input"/>
+        <pin num="18" name="IN" type="power_in"/>
+        <pin num="19" name="IN" type="passive"/>
+        <pin num="20" name="OUT" type="passive"/>
+        <pin num="21" name="V_{SS}" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_ST_STM32H7" part="STM32H743ZITx">
+      <description>STMicroelectronics Arm Cortex-M7 MCU, 2048KB flash, 1024KB RAM, 480 MHz, 1.62-3.6V, 114 GPIO, LQFP144</description>
+      <docs>https://www.st.com/resource/en/datasheet/stm32h743zi.pdf</docs>
+      <footprints>
+        <fp>LQFP*20x20mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">STM32H743ZITx</field>
+        <field name="Footprint">Package_QFP:LQFP-144_20x20mm_P0.5mm</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/stm32h743zi.pdf</field>
+        <field name="Description">STMicroelectronics Arm Cortex-M7 MCU, 2048KB flash, 1024KB RAM, 480 MHz, 1.62-3.6V, 114 GPIO, LQFP144</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PE2" type="bidirectional"/>
+        <pin num="2" name="PE3" type="bidirectional"/>
+        <pin num="3" name="PE4" type="bidirectional"/>
+        <pin num="4" name="PE5" type="bidirectional"/>
+        <pin num="5" name="PE6" type="bidirectional"/>
+        <pin num="6" name="VBAT" type="power_in"/>
+        <pin num="7" name="PC13" type="bidirectional"/>
+        <pin num="8" name="PC14" type="bidirectional"/>
+        <pin num="9" name="PC15" type="bidirectional"/>
+        <pin num="10" name="PF0" type="bidirectional"/>
+        <pin num="11" name="PF1" type="bidirectional"/>
+        <pin num="12" name="PF2" type="bidirectional"/>
+        <pin num="13" name="PF3" type="bidirectional"/>
+        <pin num="14" name="PF4" type="bidirectional"/>
+        <pin num="15" name="PF5" type="bidirectional"/>
+        <pin num="16" name="VSS" type="power_in"/>
+        <pin num="17" name="VDD" type="power_in"/>
+        <pin num="18" name="PF6" type="bidirectional"/>
+        <pin num="19" name="PF7" type="bidirectional"/>
+        <pin num="20" name="PF8" type="bidirectional"/>
+        <pin num="21" name="PF9" type="bidirectional"/>
+        <pin num="22" name="PF10" type="bidirectional"/>
+        <pin num="23" name="PH0" type="bidirectional"/>
+        <pin num="24" name="PH1" type="bidirectional"/>
+        <pin num="25" name="NRST" type="input"/>
+        <pin num="26" name="PC0" type="bidirectional"/>
+        <pin num="27" name="PC1" type="bidirectional"/>
+        <pin num="28" name="PC2_C" type="bidirectional"/>
+        <pin num="29" name="PC3_C" type="bidirectional"/>
+        <pin num="30" name="VDD" type="power_in"/>
+        <pin num="31" name="VSSA" type="power_in"/>
+        <pin num="32" name="VREF+" type="input"/>
+        <pin num="33" name="VDDA" type="power_in"/>
+        <pin num="34" name="PA0" type="bidirectional"/>
+        <pin num="35" name="PA1" type="bidirectional"/>
+        <pin num="36" name="PA2" type="bidirectional"/>
+        <pin num="37" name="PA3" type="bidirectional"/>
+        <pin num="38" name="VSS" type="passive"/>
+        <pin num="39" name="VDD" type="power_in"/>
+        <pin num="40" name="PA4" type="bidirectional"/>
+        <pin num="41" name="PA5" type="bidirectional"/>
+        <pin num="42" name="PA6" type="bidirectional"/>
+        <pin num="43" name="PA7" type="bidirectional"/>
+        <pin num="44" name="PC4" type="bidirectional"/>
+        <pin num="45" name="PC5" type="bidirectional"/>
+        <pin num="46" name="PB0" type="bidirectional"/>
+        <pin num="47" name="PB1" type="bidirectional"/>
+        <pin num="48" name="PB2" type="bidirectional"/>
+        <pin num="49" name="PF11" type="bidirectional"/>
+        <pin num="50" name="PF12" type="bidirectional"/>
+        <pin num="51" name="VSS" type="passive"/>
+        <pin num="52" name="VDD" type="power_in"/>
+        <pin num="53" name="PF13" type="bidirectional"/>
+        <pin num="54" name="PF14" type="bidirectional"/>
+        <pin num="55" name="PF15" type="bidirectional"/>
+        <pin num="56" name="PG0" type="bidirectional"/>
+        <pin num="57" name="PG1" type="bidirectional"/>
+        <pin num="58" name="PE7" type="bidirectional"/>
+        <pin num="59" name="PE8" type="bidirectional"/>
+        <pin num="60" name="PE9" type="bidirectional"/>
+        <pin num="61" name="VSS" type="passive"/>
+        <pin num="62" name="VDD" type="power_in"/>
+        <pin num="63" name="PE10" type="bidirectional"/>
+        <pin num="64" name="PE11" type="bidirectional"/>
+        <pin num="65" name="PE12" type="bidirectional"/>
+        <pin num="66" name="PE13" type="bidirectional"/>
+        <pin num="67" name="PE14" type="bidirectional"/>
+        <pin num="68" name="PE15" type="bidirectional"/>
+        <pin num="69" name="PB10" type="bidirectional"/>
+        <pin num="70" name="PB11" type="bidirectional"/>
+        <pin num="71" name="VCAP" type="power_out"/>
+        <pin num="72" name="VDD" type="power_in"/>
+        <pin num="73" name="PB12" type="bidirectional"/>
+        <pin num="74" name="PB13" type="bidirectional"/>
+        <pin num="75" name="PB14" type="bidirectional"/>
+        <pin num="76" name="PB15" type="bidirectional"/>
+        <pin num="77" name="PD8" type="bidirectional"/>
+        <pin num="78" name="PD9" type="bidirectional"/>
+        <pin num="79" name="PD10" type="bidirectional"/>
+        <pin num="80" name="PD11" type="bidirectional"/>
+        <pin num="81" name="PD12" type="bidirectional"/>
+        <pin num="82" name="PD13" type="bidirectional"/>
+        <pin num="83" name="VSS" type="passive"/>
+        <pin num="84" name="VDD" type="power_in"/>
+        <pin num="85" name="PD14" type="bidirectional"/>
+        <pin num="86" name="PD15" type="bidirectional"/>
+        <pin num="87" name="PG2" type="bidirectional"/>
+        <pin num="88" name="PG3" type="bidirectional"/>
+        <pin num="89" name="PG4" type="bidirectional"/>
+        <pin num="90" name="PG5" type="bidirectional"/>
+        <pin num="91" name="PG6" type="bidirectional"/>
+        <pin num="92" name="PG7" type="bidirectional"/>
+        <pin num="93" name="PG8" type="bidirectional"/>
+        <pin num="94" name="VSS" type="passive"/>
+        <pin num="95" name="VDD33_USB" type="power_in"/>
+        <pin num="96" name="PC6" type="bidirectional"/>
+        <pin num="97" name="PC7" type="bidirectional"/>
+        <pin num="98" name="PC8" type="bidirectional"/>
+        <pin num="99" name="PC9" type="bidirectional"/>
+        <pin num="100" name="PA8" type="bidirectional"/>
+        <pin num="101" name="PA9" type="bidirectional"/>
+        <pin num="102" name="PA10" type="bidirectional"/>
+        <pin num="103" name="PA11" type="bidirectional"/>
+        <pin num="104" name="PA12" type="bidirectional"/>
+        <pin num="105" name="PA13" type="bidirectional"/>
+        <pin num="106" name="VCAP" type="power_out"/>
+        <pin num="107" name="VSS" type="passive"/>
+        <pin num="108" name="VDD" type="power_in"/>
+        <pin num="109" name="PA14" type="bidirectional"/>
+        <pin num="110" name="PA15" type="bidirectional"/>
+        <pin num="111" name="PC10" type="bidirectional"/>
+        <pin num="112" name="PC11" type="bidirectional"/>
+        <pin num="113" name="PC12" type="bidirectional"/>
+        <pin num="114" name="PD0" type="bidirectional"/>
+        <pin num="115" name="PD1" type="bidirectional"/>
+        <pin num="116" name="PD2" type="bidirectional"/>
+        <pin num="117" name="PD3" type="bidirectional"/>
+        <pin num="118" name="PD4" type="bidirectional"/>
+        <pin num="119" name="PD5" type="bidirectional"/>
+        <pin num="120" name="VSS" type="passive"/>
+        <pin num="121" name="VDD" type="power_in"/>
+        <pin num="122" name="PD6" type="bidirectional"/>
+        <pin num="123" name="PD7" type="bidirectional"/>
+        <pin num="124" name="PG9" type="bidirectional"/>
+        <pin num="125" name="PG10" type="bidirectional"/>
+        <pin num="126" name="PG11" type="bidirectional"/>
+        <pin num="127" name="PG12" type="bidirectional"/>
+        <pin num="128" name="PG13" type="bidirectional"/>
+        <pin num="129" name="PG14" type="bidirectional"/>
+        <pin num="130" name="VSS" type="passive"/>
+        <pin num="131" name="VDD" type="power_in"/>
+        <pin num="132" name="PG15" type="bidirectional"/>
+        <pin num="133" name="PB3" type="bidirectional"/>
+        <pin num="134" name="PB4" type="bidirectional"/>
+        <pin num="135" name="PB5" type="bidirectional"/>
+        <pin num="136" name="PB6" type="bidirectional"/>
+        <pin num="137" name="PB7" type="bidirectional"/>
+        <pin num="138" name="BOOT0" type="input"/>
+        <pin num="139" name="PB8" type="bidirectional"/>
+        <pin num="140" name="PB9" type="bidirectional"/>
+        <pin num="141" name="PE0" type="bidirectional"/>
+        <pin num="142" name="PE1" type="bidirectional"/>
+        <pin num="143" name="PDR_ON" type="input"/>
+        <pin num="144" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="RF_Module" part="ESP32-WROOM-32">
+      <description>RF Module, ESP32-D0WDQ6 SoC, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 2.7-3.6V, onboard antenna, SMD</description>
+      <docs>https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf</docs>
+      <footprints>
+        <fp>ESP32?WROOM?32*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ESP32-WROOM-32</field>
+        <field name="Footprint">RF_Module:ESP32-WROOM-32</field>
+        <field name="Datasheet">https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf</field>
+        <field name="Description">RF Module, ESP32-D0WDQ6 SoC, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 2.7-3.6V, onboard antenna, SMD</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VDD" type="power_in"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="SENSOR_VP" type="input"/>
+        <pin num="5" name="SENSOR_VN" type="input"/>
+        <pin num="6" name="IO34" type="input"/>
+        <pin num="7" name="IO35" type="input"/>
+        <pin num="8" name="IO32" type="bidirectional"/>
+        <pin num="9" name="IO33" type="bidirectional"/>
+        <pin num="10" name="IO25" type="bidirectional"/>
+        <pin num="11" name="IO26" type="bidirectional"/>
+        <pin num="12" name="IO27" type="bidirectional"/>
+        <pin num="13" name="IO14" type="bidirectional"/>
+        <pin num="14" name="IO12" type="bidirectional"/>
+        <pin num="15" name="GND" type="passive"/>
+        <pin num="16" name="IO13" type="bidirectional"/>
+        <pin num="17" name="SHD/SD2" type="bidirectional"/>
+        <pin num="18" name="SWP/SD3" type="bidirectional"/>
+        <pin num="19" name="SCS/CMD" type="bidirectional"/>
+        <pin num="20" name="SCK/CLK" type="bidirectional"/>
+        <pin num="21" name="SDO/SD0" type="bidirectional"/>
+        <pin num="22" name="SDI/SD1" type="bidirectional"/>
+        <pin num="23" name="IO15" type="bidirectional"/>
+        <pin num="24" name="IO2" type="bidirectional"/>
+        <pin num="25" name="IO0" type="bidirectional"/>
+        <pin num="26" name="IO4" type="bidirectional"/>
+        <pin num="27" name="IO16" type="bidirectional"/>
+        <pin num="28" name="IO17" type="bidirectional"/>
+        <pin num="29" name="IO5" type="bidirectional"/>
+        <pin num="30" name="IO18" type="bidirectional"/>
+        <pin num="31" name="IO19" type="bidirectional"/>
+        <pin num="32" name="NC" type="no_connect"/>
+        <pin num="33" name="IO21" type="bidirectional"/>
+        <pin num="34" name="RXD0/IO3" type="bidirectional"/>
+        <pin num="35" name="TXD0/IO1" type="bidirectional"/>
+        <pin num="36" name="IO22" type="bidirectional"/>
+        <pin num="37" name="IO23" type="bidirectional"/>
+        <pin num="38" name="GND" type="passive"/>
+        <pin num="39" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="LD39150DT33">
+      <description>1.5A Ultra Low Dropout regulator, positive, 3.3V fixed output, TO-252</description>
+      <docs>https://www.st.com/resource/en/datasheet/ld39150.pdf</docs>
+      <footprints>
+        <fp>TO?252*TabPin2*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LD39150DT33</field>
+        <field name="Footprint">Package_TO_SOT_SMD:TO-252-3_TabPin2</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/ld39150.pdf</field>
+        <field name="Description">1.5A Ultra Low Dropout regulator, positive, 3.3V fixed output, TO-252</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VI" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="VO" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="TPS61023DRLT" part="TPS61023DRLT">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TPS61023DRLT</field>
+        <field name="Footprint">TPS61023DRLT:SOT50P160X60-6N</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="MF">Texas Instruments</field>
+        <field name="Description_1">3.7-A boost converter with 0.5-V ultra-low input voltage</field>
+        <field name="Package">SOT-5X3-6 Texas Instruments</field>
+        <field name="Price">None</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/TPS61023DRLT/Texas+Instruments/view-part/?ref=snap</field>
+        <field name="MP">TPS61023DRLT</field>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/TPS61023DRLT/Texas+Instruments/view-part/?ref=eda</field>
+      </fields>
+      <pins>
+        <pin num="1" name="FB" type="input"/>
+        <pin num="2" name="EN" type="input"/>
+        <pin num="3" name="VIN" type="input"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="SW" type="bidirectional"/>
+        <pin num="6" name="VOUT" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Timer_RTC" part="DS3231M">
+      <description>Extremely Accurate I2C-Integrated RTC/TCXO/Crystal SOIC-16</description>
+      <docs>http://datasheets.maximintegrated.com/en/ds/DS3231.pdf</docs>
+      <footprints>
+        <fp>SOIC*7.5x10.3mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">DS3231M</field>
+        <field name="Footprint">Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm</field>
+        <field name="Datasheet">http://datasheets.maximintegrated.com/en/ds/DS3231.pdf</field>
+        <field name="Description">Extremely Accurate I2C-Integrated RTC/TCXO/Crystal SOIC-16</field>
+      </fields>
+      <pins>
+        <pin num="1" name="32KHZ" type="open_collector"/>
+        <pin num="2" name="VCC" type="power_in"/>
+        <pin num="3" name="~{INT}/SQW" type="open_collector"/>
+        <pin num="4" name="~{RST}" type="bidirectional"/>
+        <pin num="5" name="GND" type="passive"/>
+        <pin num="6" name="GND" type="passive"/>
+        <pin num="7" name="GND" type="passive"/>
+        <pin num="8" name="GND" type="passive"/>
+        <pin num="9" name="GND" type="passive"/>
+        <pin num="10" name="GND" type="passive"/>
+        <pin num="11" name="GND" type="passive"/>
+        <pin num="12" name="GND" type="passive"/>
+        <pin num="13" name="GND" type="power_in"/>
+        <pin num="14" name="VBAT" type="power_in"/>
+        <pin num="15" name="SDA" type="bidirectional"/>
+        <pin num="16" name="SCL" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Battery_Management">
+      <uri>C:\Program Files\KiCad\9.0\share\kicad\symbols\/Battery_Management.kicad_sym</uri>
+    </library>
+    <library logical="MCU_ST_STM32H7">
+      <uri>C:\Program Files\KiCad\9.0\share\kicad\symbols\/MCU_ST_STM32H7.kicad_sym</uri>
+    </library>
+    <library logical="RF_Module">
+      <uri>C:\Program Files\KiCad\9.0\share\kicad\symbols\/RF_Module.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>C:\Program Files\KiCad\9.0\share\kicad\symbols\/Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="TPS61023DRLT">
+      <uri>C:\Users\ergun.mert.cakir\Desktop\OpenAirScope\hardware\Lib\TPS61023DRLT (1)\TPS61023DRLT.kicad_sym</uri>
+    </library>
+    <library logical="Timer_RTC">
+      <uri>C:\Program Files\KiCad\9.0\share\kicad\symbols\/Timer_RTC.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(U1-VSS-Pad107)" class="Default">
+      <node ref="U1" pin="107" pinfunction="VSS" pintype="passive"/>
+      <node ref="U1" pin="120" pinfunction="VSS" pintype="passive"/>
+      <node ref="U1" pin="130" pinfunction="VSS" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U1" pin="38" pinfunction="VSS" pintype="passive"/>
+      <node ref="U1" pin="51" pinfunction="VSS" pintype="passive"/>
+      <node ref="U1" pin="61" pinfunction="VSS" pintype="passive"/>
+      <node ref="U1" pin="83" pinfunction="VSS" pintype="passive"/>
+      <node ref="U1" pin="94" pinfunction="VSS" pintype="passive"/>
+    </net>
+    <net code="2" name="Net-(U2-GND-Pad1)" class="Default">
+      <node ref="U2" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="15" pinfunction="GND" pintype="passive"/>
+      <node ref="U2" pin="38" pinfunction="GND" pintype="passive"/>
+      <node ref="U2" pin="39" pinfunction="GND" pintype="passive"/>
+    </net>
+    <net code="3" name="Net-(U3-GND-Pad10)" class="Default">
+      <node ref="U3" pin="10" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="11" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="12" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="13" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="5" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="7" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="8" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="9" pinfunction="GND" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(U4-V_{BAT}-Pad3)" class="Default">
+      <node ref="U4" pin="3" pinfunction="V_{BAT}" pintype="power_out"/>
+      <node ref="U4" pin="4" pinfunction="V_{BAT}" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(U4-V_{DD}-Pad1)" class="Default">
+      <node ref="U4" pin="1" pinfunction="V_{DD}" pintype="passive"/>
+      <node ref="U4" pin="2" pinfunction="V_{DD}" pintype="power_in"/>
+    </net>
+    <net code="6" name="Net-(U6-IN-Pad18)" class="Default">
+      <node ref="U6" pin="18" pinfunction="IN" pintype="power_in"/>
+      <node ref="U6" pin="19" pinfunction="IN" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(U6-OUT-Pad1)" class="Default">
+      <node ref="U6" pin="1" pinfunction="OUT" pintype="power_out"/>
+      <node ref="U6" pin="20" pinfunction="OUT" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(U6-V_{BAT}-Pad14)" class="Default">
+      <node ref="U6" pin="14" pinfunction="V_{BAT}" pintype="power_out"/>
+      <node ref="U6" pin="15" pinfunction="V_{BAT}" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(U6-V_{SS}-Pad10)" class="Default">
+      <node ref="U6" pin="10" pinfunction="V_{SS}" pintype="power_in"/>
+      <node ref="U6" pin="11" pinfunction="V_{SS}" pintype="passive"/>
+      <node ref="U6" pin="21" pinfunction="V_{SS}" pintype="passive"/>
+    </net>
+    <net code="10" name="unconnected-(U1-BOOT0-Pad138)" class="Default">
+      <node ref="U1" pin="138" pinfunction="BOOT0" pintype="input"/>
+    </net>
+    <net code="11" name="unconnected-(U1-NRST-Pad25)" class="Default">
+      <node ref="U1" pin="25" pinfunction="NRST" pintype="input"/>
+    </net>
+    <net code="12" name="unconnected-(U1-PA0-Pad34)" class="Default">
+      <node ref="U1" pin="34" pinfunction="PA0" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="unconnected-(U1-PA1-Pad35)" class="Default">
+      <node ref="U1" pin="35" pinfunction="PA1" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="unconnected-(U1-PA2-Pad36)" class="Default">
+      <node ref="U1" pin="36" pinfunction="PA2" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="unconnected-(U1-PA3-Pad37)" class="Default">
+      <node ref="U1" pin="37" pinfunction="PA3" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="unconnected-(U1-PA4-Pad40)" class="Default">
+      <node ref="U1" pin="40" pinfunction="PA4" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="unconnected-(U1-PA5-Pad41)" class="Default">
+      <node ref="U1" pin="41" pinfunction="PA5" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="unconnected-(U1-PA6-Pad42)" class="Default">
+      <node ref="U1" pin="42" pinfunction="PA6" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="unconnected-(U1-PA7-Pad43)" class="Default">
+      <node ref="U1" pin="43" pinfunction="PA7" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="unconnected-(U1-PA8-Pad100)" class="Default">
+      <node ref="U1" pin="100" pinfunction="PA8" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="unconnected-(U1-PA9-Pad101)" class="Default">
+      <node ref="U1" pin="101" pinfunction="PA9" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="unconnected-(U1-PA10-Pad102)" class="Default">
+      <node ref="U1" pin="102" pinfunction="PA10" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="unconnected-(U1-PA11-Pad103)" class="Default">
+      <node ref="U1" pin="103" pinfunction="PA11" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="unconnected-(U1-PA12-Pad104)" class="Default">
+      <node ref="U1" pin="104" pinfunction="PA12" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="unconnected-(U1-PA13-Pad105)" class="Default">
+      <node ref="U1" pin="105" pinfunction="PA13" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="unconnected-(U1-PA14-Pad109)" class="Default">
+      <node ref="U1" pin="109" pinfunction="PA14" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="unconnected-(U1-PA15-Pad110)" class="Default">
+      <node ref="U1" pin="110" pinfunction="PA15" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="unconnected-(U1-PB0-Pad46)" class="Default">
+      <node ref="U1" pin="46" pinfunction="PB0" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="unconnected-(U1-PB1-Pad47)" class="Default">
+      <node ref="U1" pin="47" pinfunction="PB1" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="unconnected-(U1-PB2-Pad48)" class="Default">
+      <node ref="U1" pin="48" pinfunction="PB2" pintype="bidirectional"/>
+    </net>
+    <net code="31" name="unconnected-(U1-PB3-Pad133)" class="Default">
+      <node ref="U1" pin="133" pinfunction="PB3" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="unconnected-(U1-PB4-Pad134)" class="Default">
+      <node ref="U1" pin="134" pinfunction="PB4" pintype="bidirectional"/>
+    </net>
+    <net code="33" name="unconnected-(U1-PB5-Pad135)" class="Default">
+      <node ref="U1" pin="135" pinfunction="PB5" pintype="bidirectional"/>
+    </net>
+    <net code="34" name="unconnected-(U1-PB6-Pad136)" class="Default">
+      <node ref="U1" pin="136" pinfunction="PB6" pintype="bidirectional"/>
+    </net>
+    <net code="35" name="unconnected-(U1-PB7-Pad137)" class="Default">
+      <node ref="U1" pin="137" pinfunction="PB7" pintype="bidirectional"/>
+    </net>
+    <net code="36" name="unconnected-(U1-PB8-Pad139)" class="Default">
+      <node ref="U1" pin="139" pinfunction="PB8" pintype="bidirectional"/>
+    </net>
+    <net code="37" name="unconnected-(U1-PB9-Pad140)" class="Default">
+      <node ref="U1" pin="140" pinfunction="PB9" pintype="bidirectional"/>
+    </net>
+    <net code="38" name="unconnected-(U1-PB10-Pad69)" class="Default">
+      <node ref="U1" pin="69" pinfunction="PB10" pintype="bidirectional"/>
+    </net>
+    <net code="39" name="unconnected-(U1-PB11-Pad70)" class="Default">
+      <node ref="U1" pin="70" pinfunction="PB11" pintype="bidirectional"/>
+    </net>
+    <net code="40" name="unconnected-(U1-PB12-Pad73)" class="Default">
+      <node ref="U1" pin="73" pinfunction="PB12" pintype="bidirectional"/>
+    </net>
+    <net code="41" name="unconnected-(U1-PB13-Pad74)" class="Default">
+      <node ref="U1" pin="74" pinfunction="PB13" pintype="bidirectional"/>
+    </net>
+    <net code="42" name="unconnected-(U1-PB14-Pad75)" class="Default">
+      <node ref="U1" pin="75" pinfunction="PB14" pintype="bidirectional"/>
+    </net>
+    <net code="43" name="unconnected-(U1-PB15-Pad76)" class="Default">
+      <node ref="U1" pin="76" pinfunction="PB15" pintype="bidirectional"/>
+    </net>
+    <net code="44" name="unconnected-(U1-PC0-Pad26)" class="Default">
+      <node ref="U1" pin="26" pinfunction="PC0" pintype="bidirectional"/>
+    </net>
+    <net code="45" name="unconnected-(U1-PC1-Pad27)" class="Default">
+      <node ref="U1" pin="27" pinfunction="PC1" pintype="bidirectional"/>
+    </net>
+    <net code="46" name="unconnected-(U1-PC2_C-Pad28)" class="Default">
+      <node ref="U1" pin="28" pinfunction="PC2_C" pintype="bidirectional"/>
+    </net>
+    <net code="47" name="unconnected-(U1-PC3_C-Pad29)" class="Default">
+      <node ref="U1" pin="29" pinfunction="PC3_C" pintype="bidirectional"/>
+    </net>
+    <net code="48" name="unconnected-(U1-PC4-Pad44)" class="Default">
+      <node ref="U1" pin="44" pinfunction="PC4" pintype="bidirectional"/>
+    </net>
+    <net code="49" name="unconnected-(U1-PC5-Pad45)" class="Default">
+      <node ref="U1" pin="45" pinfunction="PC5" pintype="bidirectional"/>
+    </net>
+    <net code="50" name="unconnected-(U1-PC6-Pad96)" class="Default">
+      <node ref="U1" pin="96" pinfunction="PC6" pintype="bidirectional"/>
+    </net>
+    <net code="51" name="unconnected-(U1-PC7-Pad97)" class="Default">
+      <node ref="U1" pin="97" pinfunction="PC7" pintype="bidirectional"/>
+    </net>
+    <net code="52" name="unconnected-(U1-PC8-Pad98)" class="Default">
+      <node ref="U1" pin="98" pinfunction="PC8" pintype="bidirectional"/>
+    </net>
+    <net code="53" name="unconnected-(U1-PC9-Pad99)" class="Default">
+      <node ref="U1" pin="99" pinfunction="PC9" pintype="bidirectional"/>
+    </net>
+    <net code="54" name="unconnected-(U1-PC10-Pad111)" class="Default">
+      <node ref="U1" pin="111" pinfunction="PC10" pintype="bidirectional"/>
+    </net>
+    <net code="55" name="unconnected-(U1-PC11-Pad112)" class="Default">
+      <node ref="U1" pin="112" pinfunction="PC11" pintype="bidirectional"/>
+    </net>
+    <net code="56" name="unconnected-(U1-PC12-Pad113)" class="Default">
+      <node ref="U1" pin="113" pinfunction="PC12" pintype="bidirectional"/>
+    </net>
+    <net code="57" name="unconnected-(U1-PC13-Pad7)" class="Default">
+      <node ref="U1" pin="7" pinfunction="PC13" pintype="bidirectional"/>
+    </net>
+    <net code="58" name="unconnected-(U1-PC14-Pad8)" class="Default">
+      <node ref="U1" pin="8" pinfunction="PC14" pintype="bidirectional"/>
+    </net>
+    <net code="59" name="unconnected-(U1-PC15-Pad9)" class="Default">
+      <node ref="U1" pin="9" pinfunction="PC15" pintype="bidirectional"/>
+    </net>
+    <net code="60" name="unconnected-(U1-PD0-Pad114)" class="Default">
+      <node ref="U1" pin="114" pinfunction="PD0" pintype="bidirectional"/>
+    </net>
+    <net code="61" name="unconnected-(U1-PD1-Pad115)" class="Default">
+      <node ref="U1" pin="115" pinfunction="PD1" pintype="bidirectional"/>
+    </net>
+    <net code="62" name="unconnected-(U1-PD2-Pad116)" class="Default">
+      <node ref="U1" pin="116" pinfunction="PD2" pintype="bidirectional"/>
+    </net>
+    <net code="63" name="unconnected-(U1-PD3-Pad117)" class="Default">
+      <node ref="U1" pin="117" pinfunction="PD3" pintype="bidirectional"/>
+    </net>
+    <net code="64" name="unconnected-(U1-PD4-Pad118)" class="Default">
+      <node ref="U1" pin="118" pinfunction="PD4" pintype="bidirectional"/>
+    </net>
+    <net code="65" name="unconnected-(U1-PD5-Pad119)" class="Default">
+      <node ref="U1" pin="119" pinfunction="PD5" pintype="bidirectional"/>
+    </net>
+    <net code="66" name="unconnected-(U1-PD6-Pad122)" class="Default">
+      <node ref="U1" pin="122" pinfunction="PD6" pintype="bidirectional"/>
+    </net>
+    <net code="67" name="unconnected-(U1-PD7-Pad123)" class="Default">
+      <node ref="U1" pin="123" pinfunction="PD7" pintype="bidirectional"/>
+    </net>
+    <net code="68" name="unconnected-(U1-PD8-Pad77)" class="Default">
+      <node ref="U1" pin="77" pinfunction="PD8" pintype="bidirectional"/>
+    </net>
+    <net code="69" name="unconnected-(U1-PD9-Pad78)" class="Default">
+      <node ref="U1" pin="78" pinfunction="PD9" pintype="bidirectional"/>
+    </net>
+    <net code="70" name="unconnected-(U1-PD10-Pad79)" class="Default">
+      <node ref="U1" pin="79" pinfunction="PD10" pintype="bidirectional"/>
+    </net>
+    <net code="71" name="unconnected-(U1-PD11-Pad80)" class="Default">
+      <node ref="U1" pin="80" pinfunction="PD11" pintype="bidirectional"/>
+    </net>
+    <net code="72" name="unconnected-(U1-PD12-Pad81)" class="Default">
+      <node ref="U1" pin="81" pinfunction="PD12" pintype="bidirectional"/>
+    </net>
+    <net code="73" name="unconnected-(U1-PD13-Pad82)" class="Default">
+      <node ref="U1" pin="82" pinfunction="PD13" pintype="bidirectional"/>
+    </net>
+    <net code="74" name="unconnected-(U1-PD14-Pad85)" class="Default">
+      <node ref="U1" pin="85" pinfunction="PD14" pintype="bidirectional"/>
+    </net>
+    <net code="75" name="unconnected-(U1-PD15-Pad86)" class="Default">
+      <node ref="U1" pin="86" pinfunction="PD15" pintype="bidirectional"/>
+    </net>
+    <net code="76" name="unconnected-(U1-PDR_ON-Pad143)" class="Default">
+      <node ref="U1" pin="143" pinfunction="PDR_ON" pintype="input"/>
+    </net>
+    <net code="77" name="unconnected-(U1-PE0-Pad141)" class="Default">
+      <node ref="U1" pin="141" pinfunction="PE0" pintype="bidirectional"/>
+    </net>
+    <net code="78" name="unconnected-(U1-PE1-Pad142)" class="Default">
+      <node ref="U1" pin="142" pinfunction="PE1" pintype="bidirectional"/>
+    </net>
+    <net code="79" name="unconnected-(U1-PE2-Pad1)" class="Default">
+      <node ref="U1" pin="1" pinfunction="PE2" pintype="bidirectional"/>
+    </net>
+    <net code="80" name="unconnected-(U1-PE3-Pad2)" class="Default">
+      <node ref="U1" pin="2" pinfunction="PE3" pintype="bidirectional"/>
+    </net>
+    <net code="81" name="unconnected-(U1-PE4-Pad3)" class="Default">
+      <node ref="U1" pin="3" pinfunction="PE4" pintype="bidirectional"/>
+    </net>
+    <net code="82" name="unconnected-(U1-PE5-Pad4)" class="Default">
+      <node ref="U1" pin="4" pinfunction="PE5" pintype="bidirectional"/>
+    </net>
+    <net code="83" name="unconnected-(U1-PE6-Pad5)" class="Default">
+      <node ref="U1" pin="5" pinfunction="PE6" pintype="bidirectional"/>
+    </net>
+    <net code="84" name="unconnected-(U1-PE7-Pad58)" class="Default">
+      <node ref="U1" pin="58" pinfunction="PE7" pintype="bidirectional"/>
+    </net>
+    <net code="85" name="unconnected-(U1-PE8-Pad59)" class="Default">
+      <node ref="U1" pin="59" pinfunction="PE8" pintype="bidirectional"/>
+    </net>
+    <net code="86" name="unconnected-(U1-PE9-Pad60)" class="Default">
+      <node ref="U1" pin="60" pinfunction="PE9" pintype="bidirectional"/>
+    </net>
+    <net code="87" name="unconnected-(U1-PE10-Pad63)" class="Default">
+      <node ref="U1" pin="63" pinfunction="PE10" pintype="bidirectional"/>
+    </net>
+    <net code="88" name="unconnected-(U1-PE11-Pad64)" class="Default">
+      <node ref="U1" pin="64" pinfunction="PE11" pintype="bidirectional"/>
+    </net>
+    <net code="89" name="unconnected-(U1-PE12-Pad65)" class="Default">
+      <node ref="U1" pin="65" pinfunction="PE12" pintype="bidirectional"/>
+    </net>
+    <net code="90" name="unconnected-(U1-PE13-Pad66)" class="Default">
+      <node ref="U1" pin="66" pinfunction="PE13" pintype="bidirectional"/>
+    </net>
+    <net code="91" name="unconnected-(U1-PE14-Pad67)" class="Default">
+      <node ref="U1" pin="67" pinfunction="PE14" pintype="bidirectional"/>
+    </net>
+    <net code="92" name="unconnected-(U1-PE15-Pad68)" class="Default">
+      <node ref="U1" pin="68" pinfunction="PE15" pintype="bidirectional"/>
+    </net>
+    <net code="93" name="unconnected-(U1-PF0-Pad10)" class="Default">
+      <node ref="U1" pin="10" pinfunction="PF0" pintype="bidirectional"/>
+    </net>
+    <net code="94" name="unconnected-(U1-PF1-Pad11)" class="Default">
+      <node ref="U1" pin="11" pinfunction="PF1" pintype="bidirectional"/>
+    </net>
+    <net code="95" name="unconnected-(U1-PF2-Pad12)" class="Default">
+      <node ref="U1" pin="12" pinfunction="PF2" pintype="bidirectional"/>
+    </net>
+    <net code="96" name="unconnected-(U1-PF3-Pad13)" class="Default">
+      <node ref="U1" pin="13" pinfunction="PF3" pintype="bidirectional"/>
+    </net>
+    <net code="97" name="unconnected-(U1-PF4-Pad14)" class="Default">
+      <node ref="U1" pin="14" pinfunction="PF4" pintype="bidirectional"/>
+    </net>
+    <net code="98" name="unconnected-(U1-PF5-Pad15)" class="Default">
+      <node ref="U1" pin="15" pinfunction="PF5" pintype="bidirectional"/>
+    </net>
+    <net code="99" name="unconnected-(U1-PF6-Pad18)" class="Default">
+      <node ref="U1" pin="18" pinfunction="PF6" pintype="bidirectional"/>
+    </net>
+    <net code="100" name="unconnected-(U1-PF7-Pad19)" class="Default">
+      <node ref="U1" pin="19" pinfunction="PF7" pintype="bidirectional"/>
+    </net>
+    <net code="101" name="unconnected-(U1-PF8-Pad20)" class="Default">
+      <node ref="U1" pin="20" pinfunction="PF8" pintype="bidirectional"/>
+    </net>
+    <net code="102" name="unconnected-(U1-PF9-Pad21)" class="Default">
+      <node ref="U1" pin="21" pinfunction="PF9" pintype="bidirectional"/>
+    </net>
+    <net code="103" name="unconnected-(U1-PF10-Pad22)" class="Default">
+      <node ref="U1" pin="22" pinfunction="PF10" pintype="bidirectional"/>
+    </net>
+    <net code="104" name="unconnected-(U1-PF11-Pad49)" class="Default">
+      <node ref="U1" pin="49" pinfunction="PF11" pintype="bidirectional"/>
+    </net>
+    <net code="105" name="unconnected-(U1-PF12-Pad50)" class="Default">
+      <node ref="U1" pin="50" pinfunction="PF12" pintype="bidirectional"/>
+    </net>
+    <net code="106" name="unconnected-(U1-PF13-Pad53)" class="Default">
+      <node ref="U1" pin="53" pinfunction="PF13" pintype="bidirectional"/>
+    </net>
+    <net code="107" name="unconnected-(U1-PF14-Pad54)" class="Default">
+      <node ref="U1" pin="54" pinfunction="PF14" pintype="bidirectional"/>
+    </net>
+    <net code="108" name="unconnected-(U1-PF15-Pad55)" class="Default">
+      <node ref="U1" pin="55" pinfunction="PF15" pintype="bidirectional"/>
+    </net>
+    <net code="109" name="unconnected-(U1-PG0-Pad56)" class="Default">
+      <node ref="U1" pin="56" pinfunction="PG0" pintype="bidirectional"/>
+    </net>
+    <net code="110" name="unconnected-(U1-PG1-Pad57)" class="Default">
+      <node ref="U1" pin="57" pinfunction="PG1" pintype="bidirectional"/>
+    </net>
+    <net code="111" name="unconnected-(U1-PG2-Pad87)" class="Default">
+      <node ref="U1" pin="87" pinfunction="PG2" pintype="bidirectional"/>
+    </net>
+    <net code="112" name="unconnected-(U1-PG3-Pad88)" class="Default">
+      <node ref="U1" pin="88" pinfunction="PG3" pintype="bidirectional"/>
+    </net>
+    <net code="113" name="unconnected-(U1-PG4-Pad89)" class="Default">
+      <node ref="U1" pin="89" pinfunction="PG4" pintype="bidirectional"/>
+    </net>
+    <net code="114" name="unconnected-(U1-PG5-Pad90)" class="Default">
+      <node ref="U1" pin="90" pinfunction="PG5" pintype="bidirectional"/>
+    </net>
+    <net code="115" name="unconnected-(U1-PG6-Pad91)" class="Default">
+      <node ref="U1" pin="91" pinfunction="PG6" pintype="bidirectional"/>
+    </net>
+    <net code="116" name="unconnected-(U1-PG7-Pad92)" class="Default">
+      <node ref="U1" pin="92" pinfunction="PG7" pintype="bidirectional"/>
+    </net>
+    <net code="117" name="unconnected-(U1-PG8-Pad93)" class="Default">
+      <node ref="U1" pin="93" pinfunction="PG8" pintype="bidirectional"/>
+    </net>
+    <net code="118" name="unconnected-(U1-PG9-Pad124)" class="Default">
+      <node ref="U1" pin="124" pinfunction="PG9" pintype="bidirectional"/>
+    </net>
+    <net code="119" name="unconnected-(U1-PG10-Pad125)" class="Default">
+      <node ref="U1" pin="125" pinfunction="PG10" pintype="bidirectional"/>
+    </net>
+    <net code="120" name="unconnected-(U1-PG11-Pad126)" class="Default">
+      <node ref="U1" pin="126" pinfunction="PG11" pintype="bidirectional"/>
+    </net>
+    <net code="121" name="unconnected-(U1-PG12-Pad127)" class="Default">
+      <node ref="U1" pin="127" pinfunction="PG12" pintype="bidirectional"/>
+    </net>
+    <net code="122" name="unconnected-(U1-PG13-Pad128)" class="Default">
+      <node ref="U1" pin="128" pinfunction="PG13" pintype="bidirectional"/>
+    </net>
+    <net code="123" name="unconnected-(U1-PG14-Pad129)" class="Default">
+      <node ref="U1" pin="129" pinfunction="PG14" pintype="bidirectional"/>
+    </net>
+    <net code="124" name="unconnected-(U1-PG15-Pad132)" class="Default">
+      <node ref="U1" pin="132" pinfunction="PG15" pintype="bidirectional"/>
+    </net>
+    <net code="125" name="unconnected-(U1-PH0-Pad23)" class="Default">
+      <node ref="U1" pin="23" pinfunction="PH0" pintype="bidirectional"/>
+    </net>
+    <net code="126" name="unconnected-(U1-PH1-Pad24)" class="Default">
+      <node ref="U1" pin="24" pinfunction="PH1" pintype="bidirectional"/>
+    </net>
+    <net code="127" name="unconnected-(U1-VBAT-Pad6)" class="Default">
+      <node ref="U1" pin="6" pinfunction="VBAT" pintype="power_in"/>
+    </net>
+    <net code="128" name="unconnected-(U1-VCAP-Pad71)" class="Default">
+      <node ref="U1" pin="71" pinfunction="VCAP" pintype="power_out"/>
+    </net>
+    <net code="129" name="unconnected-(U1-VCAP-Pad106)" class="Default">
+      <node ref="U1" pin="106" pinfunction="VCAP" pintype="power_out"/>
+    </net>
+    <net code="130" name="unconnected-(U1-VDD-Pad17)" class="Default">
+      <node ref="U1" pin="17" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="131" name="unconnected-(U1-VDD-Pad30)" class="Default">
+      <node ref="U1" pin="30" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="132" name="unconnected-(U1-VDD-Pad39)" class="Default">
+      <node ref="U1" pin="39" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="133" name="unconnected-(U1-VDD-Pad52)" class="Default">
+      <node ref="U1" pin="52" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="134" name="unconnected-(U1-VDD-Pad62)" class="Default">
+      <node ref="U1" pin="62" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="135" name="unconnected-(U1-VDD-Pad72)" class="Default">
+      <node ref="U1" pin="72" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="136" name="unconnected-(U1-VDD-Pad84)" class="Default">
+      <node ref="U1" pin="84" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="137" name="unconnected-(U1-VDD-Pad108)" class="Default">
+      <node ref="U1" pin="108" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="138" name="unconnected-(U1-VDD-Pad121)" class="Default">
+      <node ref="U1" pin="121" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="139" name="unconnected-(U1-VDD-Pad131)" class="Default">
+      <node ref="U1" pin="131" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="140" name="unconnected-(U1-VDD-Pad144)" class="Default">
+      <node ref="U1" pin="144" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="141" name="unconnected-(U1-VDD33_USB-Pad95)" class="Default">
+      <node ref="U1" pin="95" pinfunction="VDD33_USB" pintype="power_in"/>
+    </net>
+    <net code="142" name="unconnected-(U1-VDDA-Pad33)" class="Default">
+      <node ref="U1" pin="33" pinfunction="VDDA" pintype="power_in"/>
+    </net>
+    <net code="143" name="unconnected-(U1-VREF+-Pad32)" class="Default">
+      <node ref="U1" pin="32" pinfunction="VREF+" pintype="input"/>
+    </net>
+    <net code="144" name="unconnected-(U1-VSSA-Pad31)" class="Default">
+      <node ref="U1" pin="31" pinfunction="VSSA" pintype="power_in"/>
+    </net>
+    <net code="145" name="unconnected-(U2-EN-Pad3)" class="Default">
+      <node ref="U2" pin="3" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="146" name="unconnected-(U2-IO0-Pad25)" class="Default">
+      <node ref="U2" pin="25" pinfunction="IO0" pintype="bidirectional"/>
+    </net>
+    <net code="147" name="unconnected-(U2-IO2-Pad24)" class="Default">
+      <node ref="U2" pin="24" pinfunction="IO2" pintype="bidirectional"/>
+    </net>
+    <net code="148" name="unconnected-(U2-IO4-Pad26)" class="Default">
+      <node ref="U2" pin="26" pinfunction="IO4" pintype="bidirectional"/>
+    </net>
+    <net code="149" name="unconnected-(U2-IO5-Pad29)" class="Default">
+      <node ref="U2" pin="29" pinfunction="IO5" pintype="bidirectional"/>
+    </net>
+    <net code="150" name="unconnected-(U2-IO12-Pad14)" class="Default">
+      <node ref="U2" pin="14" pinfunction="IO12" pintype="bidirectional"/>
+    </net>
+    <net code="151" name="unconnected-(U2-IO13-Pad16)" class="Default">
+      <node ref="U2" pin="16" pinfunction="IO13" pintype="bidirectional"/>
+    </net>
+    <net code="152" name="unconnected-(U2-IO14-Pad13)" class="Default">
+      <node ref="U2" pin="13" pinfunction="IO14" pintype="bidirectional"/>
+    </net>
+    <net code="153" name="unconnected-(U2-IO15-Pad23)" class="Default">
+      <node ref="U2" pin="23" pinfunction="IO15" pintype="bidirectional"/>
+    </net>
+    <net code="154" name="unconnected-(U2-IO16-Pad27)" class="Default">
+      <node ref="U2" pin="27" pinfunction="IO16" pintype="bidirectional"/>
+    </net>
+    <net code="155" name="unconnected-(U2-IO17-Pad28)" class="Default">
+      <node ref="U2" pin="28" pinfunction="IO17" pintype="bidirectional"/>
+    </net>
+    <net code="156" name="unconnected-(U2-IO18-Pad30)" class="Default">
+      <node ref="U2" pin="30" pinfunction="IO18" pintype="bidirectional"/>
+    </net>
+    <net code="157" name="unconnected-(U2-IO19-Pad31)" class="Default">
+      <node ref="U2" pin="31" pinfunction="IO19" pintype="bidirectional"/>
+    </net>
+    <net code="158" name="unconnected-(U2-IO21-Pad33)" class="Default">
+      <node ref="U2" pin="33" pinfunction="IO21" pintype="bidirectional"/>
+    </net>
+    <net code="159" name="unconnected-(U2-IO22-Pad36)" class="Default">
+      <node ref="U2" pin="36" pinfunction="IO22" pintype="bidirectional"/>
+    </net>
+    <net code="160" name="unconnected-(U2-IO23-Pad37)" class="Default">
+      <node ref="U2" pin="37" pinfunction="IO23" pintype="bidirectional"/>
+    </net>
+    <net code="161" name="unconnected-(U2-IO25-Pad10)" class="Default">
+      <node ref="U2" pin="10" pinfunction="IO25" pintype="bidirectional"/>
+    </net>
+    <net code="162" name="unconnected-(U2-IO26-Pad11)" class="Default">
+      <node ref="U2" pin="11" pinfunction="IO26" pintype="bidirectional"/>
+    </net>
+    <net code="163" name="unconnected-(U2-IO27-Pad12)" class="Default">
+      <node ref="U2" pin="12" pinfunction="IO27" pintype="bidirectional"/>
+    </net>
+    <net code="164" name="unconnected-(U2-IO32-Pad8)" class="Default">
+      <node ref="U2" pin="8" pinfunction="IO32" pintype="bidirectional"/>
+    </net>
+    <net code="165" name="unconnected-(U2-IO33-Pad9)" class="Default">
+      <node ref="U2" pin="9" pinfunction="IO33" pintype="bidirectional"/>
+    </net>
+    <net code="166" name="unconnected-(U2-IO34-Pad6)" class="Default">
+      <node ref="U2" pin="6" pinfunction="IO34" pintype="input"/>
+    </net>
+    <net code="167" name="unconnected-(U2-IO35-Pad7)" class="Default">
+      <node ref="U2" pin="7" pinfunction="IO35" pintype="input"/>
+    </net>
+    <net code="168" name="unconnected-(U2-NC-Pad32)" class="Default">
+      <node ref="U2" pin="32" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="169" name="unconnected-(U2-RXD0/IO3-Pad34)" class="Default">
+      <node ref="U2" pin="34" pinfunction="RXD0/IO3" pintype="bidirectional"/>
+    </net>
+    <net code="170" name="unconnected-(U2-SCK/CLK-Pad20)" class="Default">
+      <node ref="U2" pin="20" pinfunction="SCK/CLK" pintype="bidirectional"/>
+    </net>
+    <net code="171" name="unconnected-(U2-SCS/CMD-Pad19)" class="Default">
+      <node ref="U2" pin="19" pinfunction="SCS/CMD" pintype="bidirectional"/>
+    </net>
+    <net code="172" name="unconnected-(U2-SDI/SD1-Pad22)" class="Default">
+      <node ref="U2" pin="22" pinfunction="SDI/SD1" pintype="bidirectional"/>
+    </net>
+    <net code="173" name="unconnected-(U2-SDO/SD0-Pad21)" class="Default">
+      <node ref="U2" pin="21" pinfunction="SDO/SD0" pintype="bidirectional"/>
+    </net>
+    <net code="174" name="unconnected-(U2-SENSOR_VN-Pad5)" class="Default">
+      <node ref="U2" pin="5" pinfunction="SENSOR_VN" pintype="input"/>
+    </net>
+    <net code="175" name="unconnected-(U2-SENSOR_VP-Pad4)" class="Default">
+      <node ref="U2" pin="4" pinfunction="SENSOR_VP" pintype="input"/>
+    </net>
+    <net code="176" name="unconnected-(U2-SHD/SD2-Pad17)" class="Default">
+      <node ref="U2" pin="17" pinfunction="SHD/SD2" pintype="bidirectional"/>
+    </net>
+    <net code="177" name="unconnected-(U2-SWP/SD3-Pad18)" class="Default">
+      <node ref="U2" pin="18" pinfunction="SWP/SD3" pintype="bidirectional"/>
+    </net>
+    <net code="178" name="unconnected-(U2-TXD0/IO1-Pad35)" class="Default">
+      <node ref="U2" pin="35" pinfunction="TXD0/IO1" pintype="bidirectional"/>
+    </net>
+    <net code="179" name="unconnected-(U2-VDD-Pad2)" class="Default">
+      <node ref="U2" pin="2" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="180" name="unconnected-(U3-32KHZ-Pad1)" class="Default">
+      <node ref="U3" pin="1" pinfunction="32KHZ" pintype="open_collector"/>
+    </net>
+    <net code="181" name="unconnected-(U3-SCL-Pad16)" class="Default">
+      <node ref="U3" pin="16" pinfunction="SCL" pintype="input"/>
+    </net>
+    <net code="182" name="unconnected-(U3-SDA-Pad15)" class="Default">
+      <node ref="U3" pin="15" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="183" name="unconnected-(U3-VBAT-Pad14)" class="Default">
+      <node ref="U3" pin="14" pinfunction="VBAT" pintype="power_in"/>
+    </net>
+    <net code="184" name="unconnected-(U3-VCC-Pad2)" class="Default">
+      <node ref="U3" pin="2" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="185" name="unconnected-(U3-~{INT}/SQW-Pad3)" class="Default">
+      <node ref="U3" pin="3" pinfunction="~{INT}/SQW" pintype="open_collector"/>
+    </net>
+    <net code="186" name="unconnected-(U3-~{RST}-Pad4)" class="Default">
+      <node ref="U3" pin="4" pinfunction="~{RST}" pintype="bidirectional"/>
+    </net>
+    <net code="187" name="unconnected-(U4-NC-Pad7)" class="Default">
+      <node ref="U4" pin="7" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="188" name="unconnected-(U4-PROG-Pad8)" class="Default">
+      <node ref="U4" pin="8" pinfunction="PROG" pintype="input"/>
+    </net>
+    <net code="189" name="unconnected-(U4-STAT-Pad5)" class="Default">
+      <node ref="U4" pin="5" pinfunction="STAT" pintype="tri_state"/>
+    </net>
+    <net code="190" name="unconnected-(U4-V_{SS}-Pad6)" class="Default">
+      <node ref="U4" pin="6" pinfunction="V_{SS}" pintype="power_in"/>
+    </net>
+    <net code="191" name="unconnected-(U5-GND-Pad2)" class="Default">
+      <node ref="U5" pin="2" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="192" name="unconnected-(U5-VI-Pad1)" class="Default">
+      <node ref="U5" pin="1" pinfunction="VI" pintype="power_in"/>
+    </net>
+    <net code="193" name="unconnected-(U5-VO-Pad3)" class="Default">
+      <node ref="U5" pin="3" pinfunction="VO" pintype="power_out"/>
+    </net>
+    <net code="194" name="unconnected-(U6-CE-Pad17)" class="Default">
+      <node ref="U6" pin="17" pinfunction="CE" pintype="input"/>
+    </net>
+    <net code="195" name="unconnected-(U6-PROG1-Pad13)" class="Default">
+      <node ref="U6" pin="13" pinfunction="PROG1" pintype="bidirectional"/>
+    </net>
+    <net code="196" name="unconnected-(U6-PROG2-Pad4)" class="Default">
+      <node ref="U6" pin="4" pinfunction="PROG2" pintype="input"/>
+    </net>
+    <net code="197" name="unconnected-(U6-PROG3-Pad12)" class="Default">
+      <node ref="U6" pin="12" pinfunction="PROG3" pintype="bidirectional"/>
+    </net>
+    <net code="198" name="unconnected-(U6-SEL-Pad3)" class="Default">
+      <node ref="U6" pin="3" pinfunction="SEL" pintype="input"/>
+    </net>
+    <net code="199" name="unconnected-(U6-STAT1/~{LBO}-Pad8)" class="Default">
+      <node ref="U6" pin="8" pinfunction="STAT1/~{LBO}" pintype="open_collector"/>
+    </net>
+    <net code="200" name="unconnected-(U6-STAT2-Pad7)" class="Default">
+      <node ref="U6" pin="7" pinfunction="STAT2" pintype="open_collector"/>
+    </net>
+    <net code="201" name="unconnected-(U6-THERM-Pad5)" class="Default">
+      <node ref="U6" pin="5" pinfunction="THERM" pintype="bidirectional"/>
+    </net>
+    <net code="202" name="unconnected-(U6-VPCC-Pad2)" class="Default">
+      <node ref="U6" pin="2" pinfunction="VPCC" pintype="input"/>
+    </net>
+    <net code="203" name="unconnected-(U6-V_{BAT_SENSE}-Pad16)" class="Default">
+      <node ref="U6" pin="16" pinfunction="V_{BAT_SENSE}" pintype="input"/>
+    </net>
+    <net code="204" name="unconnected-(U6-~{PG}-Pad6)" class="Default">
+      <node ref="U6" pin="6" pinfunction="~{PG}" pintype="open_collector"/>
+    </net>
+    <net code="205" name="unconnected-(U6-~{TE}-Pad9)" class="Default">
+      <node ref="U6" pin="9" pinfunction="~{TE}" pintype="input"/>
+    </net>
+    <net code="206" name="unconnected-(U7-EN-Pad2)" class="Default">
+      <node ref="U7" pin="2" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="207" name="unconnected-(U7-FB-Pad1)" class="Default">
+      <node ref="U7" pin="1" pinfunction="FB" pintype="input"/>
+    </net>
+    <net code="208" name="unconnected-(U7-GND-Pad4)" class="Default">
+      <node ref="U7" pin="4" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="209" name="unconnected-(U7-SW-Pad5)" class="Default">
+      <node ref="U7" pin="5" pinfunction="SW" pintype="bidirectional"/>
+    </net>
+    <net code="210" name="unconnected-(U7-VIN-Pad3)" class="Default">
+      <node ref="U7" pin="3" pinfunction="VIN" pintype="input"/>
+    </net>
+    <net code="211" name="unconnected-(U7-VOUT-Pad6)" class="Default">
+      <node ref="U7" pin="6" pinfunction="VOUT" pintype="output"/>
+    </net>
+  </nets>
+</export>

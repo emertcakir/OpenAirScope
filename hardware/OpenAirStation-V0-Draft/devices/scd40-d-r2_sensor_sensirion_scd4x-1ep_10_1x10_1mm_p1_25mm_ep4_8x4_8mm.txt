@@ -1,0 +1,21 @@
+PACKAGE 'sensirion_scd4x-1ep_10_1x10_1mm_p1_25mm_ep4_8x4_8mm'
+CLASS IC
+PINCOUNT 7
+PINORDER MAIN ,
+	GND__6,
+	VDD__7,
+	SCL__9,
+	SDA__10,
+	VDD__19,
+	GND__20,
+	GND__21
+FUNCTION MAIN MAIN ,
+	6,
+	7,
+	9,
+	10,
+	19,
+	20,
+	21
+PACKAGEPROP VALUE 'SCD40-D-R2'
+END

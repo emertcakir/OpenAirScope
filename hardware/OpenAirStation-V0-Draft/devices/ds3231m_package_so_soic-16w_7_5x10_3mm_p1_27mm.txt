@@ -1,0 +1,39 @@
+PACKAGE 'soic-16w_7_5x10_3mm_p1_27mm'
+CLASS IC
+PINCOUNT 16
+PINORDER MAIN ,
+	32KHZ__1,
+	VCC__2,
+	??INT?/SQW__3,
+	??RST?__4,
+	GND__5,
+	GND__6,
+	GND__7,
+	GND__8,
+	GND__9,
+	GND__10,
+	GND__11,
+	GND__12,
+	GND__13,
+	VBAT__14,
+	SDA__15,
+	SCL__16
+FUNCTION MAIN MAIN ,
+	1,
+	2,
+	3,
+	4,
+	5,
+	6,
+	7,
+	8,
+	9,
+	10,
+	11,
+	12,
+	13,
+	14,
+	15,
+	16
+PACKAGEPROP VALUE DS3231M
+END

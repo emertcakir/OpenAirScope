@@ -1,0 +1,23 @@
+PACKAGE 'soic-8_3_9x4_9mm_p1_27mm'
+CLASS IC
+PINCOUNT 8
+PINORDER MAIN ,
+	RO__1,
+	??RE?__2,
+	DE__3,
+	DI__4,
+	GND__5,
+	A__6,
+	B__7,
+	VCC__8
+FUNCTION MAIN MAIN ,
+	1,
+	2,
+	3,
+	4,
+	5,
+	6,
+	7,
+	8
+PACKAGEPROP VALUE MAX3485
+END
