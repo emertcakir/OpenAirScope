@@ -1,15 +1,10 @@
 
-# OpenAirScope
-
-//EMC
-
+EMC
 ---
-
 # OpenAirScope
 
 **OpenAirScope** is an open-source hardware and software project designed for advanced environmental monitoring and air quality measurement. It is based on the STM32H743 and ESP32-C3, supports LoRaWAN, and is equipped with a wide range of up-to-date sensors and display options.
-![PCBA](C:\Users\ergun.mert.cakir\Desktop\gitdeneme\OpenAirScope\docs\images\OpenAirScope.png)
-![lAYOUT](C:\Users\ergun.mert.cakir\Desktop\gitdeneme\OpenAirScope\docs\images\PCB.PNG)
+
 ## Features
 
 * **High-Performance MCU**:
