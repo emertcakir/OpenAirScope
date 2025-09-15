@@ -8,6 +8,7 @@ EMC
 
 ### PCB Assembly
 ![PCBA](docs/images/OpenAirScope.png)
+![PCBA](docs/images/OpenAirScopeB.png)
 
 ### PCB Layout
 ![Layout](docs/images/PCB.PNG)
