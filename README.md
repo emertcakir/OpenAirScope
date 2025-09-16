@@ -12,7 +12,7 @@ EMC
 
 ### PCB Layout
 ![Layout](docs/images/PCB.PNG)
-
+![Layout](docs/images/layout.PNG)
 
 ## Features
 
