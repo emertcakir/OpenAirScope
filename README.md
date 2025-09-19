@@ -6,9 +6,11 @@ EMC
 **OpenAirScope** is an open-source hardware and software project designed for advanced environmental monitoring and air quality measurement. It is based on the STM32H743 and ESP32-C3, supports LoRaWAN, and is equipped with a wide range of up-to-date sensors and display options.
 
 
-### PCB Assembly
+### PCB 3D
 ![PCBA](docs/images/OpenAirScope.png)
+![PCBA](docs/images/OpenAirScope1.PNG)
 ![PCBA](docs/images/OpenAirScopeB.png)
+
 
 ### PCB Layout
 ![Layout](docs/images/PCB.PNG)
