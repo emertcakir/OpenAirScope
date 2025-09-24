@@ -1,0 +1,24 @@
+### Module positions - created on 2025-09-24 14:00
+### Printed by pcb_positions plugin
+## Unit = mm, Angle = deg.
+## Pcb Height 75.050mm, Pcb Width 100.050mm [based on Edge bounding box]
+## Side : top
+## Board Aux Origin: 101.010mm ,143.360mm
+# Ref         Val                 Package                       PosX       PosY       Pin1_PosX  Pin1_PosY    Rot     Side      Type
+SW3           SW_Push             SW_PUSH_6mm_H13mm             55.7400    9.5100     55.7400    -270.7100     9.0    top       THD
+J13           Conn_01x07_Pin      PinHeader_1x07_P2.54mm_Vert.. 95.0900    7.8000     95.0900    -278.9200    18.0    top       THD
+J6            RFPC-SMA27-F        GRADCONN_RFPC-SMA27-F         92.5100    34.1400    92.5100    -252.5800     9.0    top       THD
+J14           Conn_01x08_Pin      PinHeader_1x08_P2.54mm_Vert.. 68.5300    70.1100    68.5300    -216.6100    -9.0    top       THD
+J8            Screw_Terminal_01.. TerminalBlock_RND_205-00045.. 78.8900    1.4100     78.8900    -285.3100     0.0    top       THD
+SW5           SW_Push             SW_PUSH_6mm_H13mm             86.7400    9.5100     86.7400    -270.7100     9.0    top       THD
+BZ1           Buzzer              MagneticBuzzer_ProSignal_AB.. 58.9100    61.9100    58.9100    -224.8100    18.0    top       THD
+J2            S2B-PH-K-S_LF__SN_  JST_S2B-PH-K-S_LF__SN_        16.4800    3.3525     15.4800    -283.3675     0.0    top       THD
+J5            Conn_01x08_Pin      PinHeader_1x08_P2.54mm_Vert.. 35.8700    70.0000    35.8700    -216.7200     0.0    top       THD
+J4            Conn_01x08_Pin      PinHeader_1x08_P2.54mm_Vert.. 95.1400    43.3400    95.1400    -243.3800    18.0    top       THD
+SW4           SW_Push             SW_PUSH_6mm_H13mm             71.1900    9.5100     71.1900    -270.7100     9.0    top       THD
+J3            Conn_ST_STDC14      PinHeader_2x07_P1.27mm_Vert.. 58.4700    51.9500    58.4700    -234.7700    -9.0    top       THD
+J10           S5B-ZR_LF__SN_      JST_S5B-ZR_LF__SN_            0.2400     57.5925    1.8400     -226.1275    -9.0    top       THD
+S1            1825910-6           Switch_Tactile_THT_6x6mm      45.1100    63.6200    45.1100    -223.1000    -9.0    top       THD
+J7            Conn_01x07_Pin      PinHeader_1x07_P2.54mm_Vert.. 87.7000    70.1000    87.7000    -216.6200    -9.0    top       THD
+J9            Screw_Terminal_01.. TerminalBlock_RND_205-00045.. 63.4300    1.4425     63.4300    -285.2775     0.0    top       THD
+## End

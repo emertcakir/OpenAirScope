@@ -1,0 +1,20 @@
+2025-09-24 13:57:38,486 - cammer_logger - INFO - Running CAMmer
+2025-09-24 13:57:38,488 - cammer_logger - INFO - ['-l', 'F.Cu,In1.Cu,In2.Cu,B.Cu,F.Paste,B.Paste,F.Silkscreen,B.Silkscreen,F.Mask,B.Mask', '-e', 'Edge.Cuts,User.Comments']
+2025-09-24 13:57:38,490 - cammer_logger - INFO - CAMMER START: 2025-09-24T13:57:38.490653
+2025-09-24 13:57:42,647 - cammer_logger - INFO - 
+START: 2025-09-24T13:57:38.490653
+Zones filled by CAMmer.
+Renaming C:/Users/ergun.mert.cakir/Desktop/gitdeneme/OpenAirScope/hardware/OpenAirStation-V0-Draft/OpenAirScope-F_Cu.gbr to C:/Users/ergun.mert.cakir/Desktop/gitdeneme/OpenAirScope/hardware/OpenAirStation-V0-Draft/OpenAirScope.GTL
+Renaming C:/Users/ergun.mert.cakir/Desktop/gitdeneme/OpenAirScope/hardware/OpenAirStation-V0-Draft/OpenAirScope-In1_Cu.gbr to C:/Users/ergun.mert.cakir/Desktop/gitdeneme/OpenAirScope/hardware/OpenAirStation-V0-Draft/OpenAirScope.GL2
+Renaming C:/Users/ergun.mert.cakir/Desktop/gitdeneme/OpenAirScope/hardware/OpenAirStation-V0-Draft/OpenAirScope-In2_Cu.gbr to C:/Users/ergun.mert.cakir/Desktop/gitdeneme/OpenAirScope/hardware/OpenAirStation-V0-Draft/OpenAirScope.GL3
+Renaming C:/Users/ergun.mert.cakir/Desktop/gitdeneme/OpenAirScope/hardware/OpenAirStation-V0-Draft/OpenAirScope-B_Cu.gbr to C:/Users/ergun.mert.cakir/Desktop/gitdeneme/OpenAirScope/hardware/OpenAirStation-V0-Draft/OpenAirScope.GBL
+Renaming C:/Users/ergun.mert.cakir/Desktop/gitdeneme/OpenAirScope/hardware/OpenAirStation-V0-Draft/OpenAirScope-F_Paste.gbr to C:/Users/ergun.mert.cakir/Desktop/gitdeneme/OpenAirScope/hardware/OpenAirStation-V0-Draft/OpenAirScope.GTP
+Renaming C:/Users/ergun.mert.cakir/Desktop/gitdeneme/OpenAirScope/hardware/OpenAirStation-V0-Draft/OpenAirScope-B_Paste.gbr to C:/Users/ergun.mert.cakir/Desktop/gitdeneme/OpenAirScope/hardware/OpenAirStation-V0-Draft/OpenAirScope.GBP
+Renaming C:/Users/ergun.mert.cakir/Desktop/gitdeneme/OpenAirScope/hardware/OpenAirStation-V0-Draft/OpenAirScope-F_Silkscreen.gbr to C:/Users/ergun.mert.cakir/Desktop/gitdeneme/OpenAirScope/hardware/OpenAirStation-V0-Draft/OpenAirScope.GTO
+Renaming C:/Users/ergun.mert.cakir/Desktop/gitdeneme/OpenAirScope/hardware/OpenAirStation-V0-Draft/OpenAirScope-B_Silkscreen.gbr to C:/Users/ergun.mert.cakir/Desktop/gitdeneme/OpenAirScope/hardware/OpenAirStation-V0-Draft/OpenAirScope.GBO
+Renaming C:/Users/ergun.mert.cakir/Desktop/gitdeneme/OpenAirScope/hardware/OpenAirStation-V0-Draft/OpenAirScope-F_Mask.gbr to C:/Users/ergun.mert.cakir/Desktop/gitdeneme/OpenAirScope/hardware/OpenAirStation-V0-Draft/OpenAirScope.GTS
+Renaming C:/Users/ergun.mert.cakir/Desktop/gitdeneme/OpenAirScope/hardware/OpenAirStation-V0-Draft/OpenAirScope-B_Mask.gbr to C:/Users/ergun.mert.cakir/Desktop/gitdeneme/OpenAirScope/hardware/OpenAirStation-V0-Draft/OpenAirScope.GBS
+Renaming C:/Users/ergun.mert.cakir/Desktop/gitdeneme/OpenAirScope/hardware/OpenAirStation-V0-Draft/OpenAirScope-Edge_Cuts.gbr to C:/Users/ergun.mert.cakir/Desktop/gitdeneme/OpenAirScope/hardware/OpenAirStation-V0-Draft/OpenAirScope.GKO
+Drill report: C:\Users\ergun.mert.cakir\Desktop\gitdeneme\OpenAirScope\hardware\OpenAirStation-V0-Draft\drill_report.rpt
+
+2025-09-24 13:57:44,354 - cammer_logger - INFO - CAMmer complete

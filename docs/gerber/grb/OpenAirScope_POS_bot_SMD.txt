@@ -1,0 +1,38 @@
+### Module positions - created on 2025-09-24 14:00
+### Printed by pcb_positions plugin
+## Unit = mm, Angle = deg.
+## Pcb Height 75.050mm, Pcb Width 100.050mm [based on Edge bounding box]
+## Side : bottom
+## Board Aux Origin: 101.010mm ,143.360mm
+# Ref         Val                 Package                       PosX       PosY       Pin1_PosX  Pin1_PosY    Rot     Side      Type
+C75           10uF                C_0603_1608Metric             2.3650     21.5100    1.5900     -265.2100     0.0    bottom    SMD
+C57           10uF                C_1206_3216Metric             80.3900    30.3924    81.8650    -256.3276    18.0    bottom    SMD
+R40           120R                R_0603_1608Metric             65.9400    17.3600    66.7650    -269.3600    18.0    bottom    SMD
+R46           10k                 R_0603_1608Metric             4.5521     42.0044    4.5521     -245.5406     9.0    bottom    SMD
+D6            PESD1CAN_215        SOT-23-3                      81.4000    4.6600     80.4500    -281.0100    -9.0    bottom    SMD
+R37           10k                 R_0603_1608Metric             60.1400    24.4100    60.9650    -262.3100    18.0    bottom    SMD
+C76           100nF               C_0603_1608Metric             2.3350     23.0500    1.5600     -263.6700     0.0    bottom    SMD
+R36           10k                 R_0603_1608Metric             60.1400    22.9100    60.9650    -263.8100    18.0    bottom    SMD
+R32           120R                R_0603_1608Metric             81.3700    7.2700     82.1950    -279.4500    18.0    bottom    SMD
+C60           4.7uF               C_0805_2012Metric             72.5900    21.4600    72.5900    -266.2100     9.0    bottom    SMD
+U10           MAX3485             SOIC-8_3.9x4.9mm_P1.27mm      66.1900    22.3600    63.7150    -266.2650     0.0    bottom    SMD
+C19           10uF                C_1206_3216Metric             46.5200    7.6600     46.5200    -277.5850    -9.0    bottom    SMD
+C58           100nF               C_0603_1608Metric             81.1400    28.4924    81.9150    -258.2276    18.0    bottom    SMD
+C18           22uF                C_1206_3216Metric             41.0400    11.2900    39.5650    -275.4300     0.0    bottom    SMD
+R33           10k                 R_0603_1608Metric             64.2150    18.8600    65.0400    -267.8600    18.0    bottom    SMD
+R41           10k                 R_0603_1608Metric             67.6400    18.8600    68.4650    -267.8600    18.0    bottom    SMD
+R39           0R                  R_0603_1608Metric             85.4800    13.1450    85.4800    -274.4000     9.0    bottom    SMD
+U9            SN65HVD230          SOIC-8_3.9x4.9mm_P1.27mm      81.4900    23.9600    79.5850    -260.2850    -9.0    bottom    SMD
+C61           100nF               C_0603_1608Metric             70.7400    21.3100    70.7400    -266.1850     9.0    bottom    SMD
+D7            SM712_SOT23         SOT-23                        65.9900    14.5600    65.0400    -271.2225    -9.0    bottom    SMD
+R45           10k                 R_0603_1608Metric             1.8662     41.9784    1.8662     -245.5666     9.0    bottom    SMD
+L3            WE-SL2              WE-SL2                        81.2900    13.0668    80.0200    -269.9033    -9.0    bottom    SMD
+U4            LD39150DT33-R       TO-252-3_TabPin2              41.7850    3.6450     39.5050    -278.0350    -9.0    bottom    SMD
+R38           0R                  R_0603_1608Metric             77.6900    22.4600    77.6900    -263.4350    -9.0    bottom    SMD
+R31           0R                  R_0603_1608Metric             77.1300    13.1450    77.1300    -274.4000     9.0    bottom    SMD
+C59           100pF               C_0603_1608Metric             79.8900    19.4600    80.6650    -267.2600    18.0    bottom    SMD
+R35           10k                 R_0603_1608Metric             60.1900    20.3600    61.0150    -266.3600    18.0    bottom    SMD
+J11           Micro_SD_Card       microSD_HC_Wuerth_693072010.. 3.2050     32.2950    1.6550     -251.2250    -9.0    bottom    SMD
+R34           0R                  R_0603_1608Metric             76.0900    22.4600    76.0900    -265.0850     9.0    bottom    SMD
+C62           100pF               C_0603_1608Metric             82.9900    19.4600    83.7650    -267.2600    18.0    bottom    SMD
+## End

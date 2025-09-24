@@ -1,0 +1,38 @@
+Drill report for OpenAirScope.kicad_pcb
+Created on 2025-09-24T13:57:42+0300
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  In1.Cu                    in1
+    L3 :  In2.Cu                    in2
+    L4 :  B.Cu                      back
+
+
+Drill file 'OpenAirScope.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.200mm  0.0079"  (16 holes)
+    T2  0.250mm  0.0098"  (217 holes)
+    T3  0.300mm  0.0118"  (249 holes)
+    T4  0.500mm  0.0197"  (7 holes)
+    T5  0.650mm  0.0256"  (14 holes)
+    T6  0.730mm  0.0287"  (5 holes)
+    T7  0.800mm  0.0315"  (2 holes)
+    T8  1.000mm  0.0394"  (40 holes)
+    T9  1.100mm  0.0433"  (16 holes)
+    T10  1.200mm  0.0472"  (4 holes)
+    T11  1.550mm  0.0610"  (1 hole)
+    T12  1.650mm  0.0650"  (4 holes)
+
+    Total plated holes count 575
+
+
+Not plated through holes are merged with plated holes
+    unplated through holes:
+    =============================================================
+    T13  0.500mm  0.0197"  (2 holes)
+    T14  0.650mm  0.0256"  (2 holes)
+    T15  3.200mm  0.1260"  (4 holes)
+
+    Total unplated holes count 8
