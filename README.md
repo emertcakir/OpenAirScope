@@ -90,6 +90,7 @@ This project is open source. Contributions are welcome for new sensor support, s
 
 Released under the MIT License.
 
+CRITICAL WARNING: This PCB design is currently an experimental, unverified prototype (AS-IS). I have not yet manufactured or functionally tested this version. Proceeding with production carries a high risk of failure and is undertaken solely at your own risk.
 ---
 
 

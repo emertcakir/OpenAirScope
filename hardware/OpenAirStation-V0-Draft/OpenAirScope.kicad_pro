@@ -513,7 +513,7 @@
       "idf": "../../docs/pcb_doc/OpenAirScope.emn",
       "netlist": "",
       "plot": "../../docs/gerber/",
-      "pos_files": "../../docs/pcb_doc/",
+      "pos_files": "../../../../../pcbway/",
       "specctra_dsn": "../../docs/pcb_doc/OpenAirScope.dsn",
       "step": "../../docs/mechanical/OpenAirScope.step",
       "svg": "",
