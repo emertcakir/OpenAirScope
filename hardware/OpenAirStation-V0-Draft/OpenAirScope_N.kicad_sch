@@ -16,31 +16,19 @@
 		(at 91.186 165.354 0)
 		(effects
 			(font
-				(face "BankGothic Lt BT")
+				(face "Arial")
 				(size 5.08 5.08)
 				(bold yes)
 			)
 		)
 		(uuid "02b956a3-b6d7-4e10-902b-d15c733d7636")
 	)
-	(text "SENS\n"
-		(exclude_from_sim no)
-		(at 113.1794 128.5312 0)
-		(effects
-			(font
-				(face "BankGothic Lt BT")
-				(size 5.08 5.08)
-				(bold yes)
-			)
-		)
-		(uuid "1293602e-de0a-4700-8e3e-b9d044cbf61d")
-	)
 	(text "DISP"
 		(exclude_from_sim no)
 		(at 311.404 141.478 0)
 		(effects
 			(font
-				(face "BankGothic Lt BT")
+				(face "Arial")
 				(size 5.08 5.08)
 				(bold yes)
 			)
@@ -49,22 +37,22 @@
 	)
 	(text "SENS\n"
 		(exclude_from_sim no)
-		(at 112.9656 142.322 0)
+		(at 113.538 129.54 0)
 		(effects
 			(font
-				(face "BankGothic Lt BT")
+				(face "Arial")
 				(size 5.08 5.08)
 				(bold yes)
 			)
 		)
-		(uuid "3e849f19-a6bd-47e5-b13f-eb5d5e2ca28f")
+		(uuid "33d1e661-92b3-414d-9c96-c626ec9b6521")
 	)
 	(text "SENS\n"
 		(exclude_from_sim no)
 		(at 200.9005 195.8428 0)
 		(effects
 			(font
-				(face "BankGothic Lt BT")
+				(face "Arial")
 				(size 5.08 5.08)
 				(bold yes)
 			)
@@ -76,7 +64,7 @@
 		(at 146.304 216.662 0)
 		(effects
 			(font
-				(face "BankGothic Lt BT")
+				(face "Arial")
 				(size 5.08 5.08)
 				(bold yes)
 			)
@@ -88,7 +76,7 @@
 		(at 177.292 57.404 0)
 		(effects
 			(font
-				(face "BankGothic Lt BT")
+				(face "Arial")
 				(size 5.08 5.08)
 				(bold yes)
 			)
@@ -100,19 +88,31 @@
 		(at 202.4002 76.8028 0)
 		(effects
 			(font
-				(face "BankGothic Lt BT")
+				(face "Arial")
 				(size 5.08 5.08)
 				(bold yes)
 			)
 		)
 		(uuid "5ccded4f-4263-49b4-861a-c5938c9fa17a")
 	)
+	(text "SENS\n"
+		(exclude_from_sim no)
+		(at 114.046 116.078 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 5.08 5.08)
+				(bold yes)
+			)
+		)
+		(uuid "6a0a59b1-0c30-4a75-81ad-94b824d1745e")
+	)
 	(text "RAK3172"
 		(exclude_from_sim no)
 		(at 310.642 74.168 0)
 		(effects
 			(font
-				(face "BankGothic Lt BT")
+				(face "Arial")
 				(size 5.08 5.08)
 				(bold yes)
 			)
@@ -124,43 +124,43 @@
 		(at 321.818 224.028 0)
 		(effects
 			(font
-				(face "BankGothic Lt BT")
+				(face "Arial")
 				(size 5.08 5.08)
 				(bold yes)
 			)
 		)
 		(uuid "7da3fb9d-f142-4933-bd44-7d096411d309")
 	)
+	(text "SENS\n"
+		(exclude_from_sim no)
+		(at 113.284 143.51 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 5.08 5.08)
+				(bold yes)
+			)
+		)
+		(uuid "d88f2d02-144f-4380-aac6-69754861f1b8")
+	)
 	(text "CANBUS\n"
 		(exclude_from_sim no)
 		(at 323.85 206.502 0)
 		(effects
 			(font
-				(face "BankGothic Lt BT")
+				(face "Arial")
 				(size 5.08 5.08)
 				(bold yes)
 			)
 		)
 		(uuid "d8c20582-1bfd-4be2-8b27-a86cf943d5e5")
 	)
-	(text "SENS\n"
-		(exclude_from_sim no)
-		(at 113.284 114.808 0)
-		(effects
-			(font
-				(face "BankGothic Lt BT")
-				(size 5.08 5.08)
-				(bold yes)
-			)
-		)
-		(uuid "db44775c-3dc6-49f8-9b07-872df69731ee")
-	)
 	(text "POWER IN"
 		(exclude_from_sim no)
 		(at 91.186 159.004 0)
 		(effects
 			(font
-				(face "BankGothic Lt BT")
+				(face "Arial")
 				(size 5.08 5.08)
 				(bold yes)
 			)
@@ -172,7 +172,7 @@
 		(at 252.222 37.846 0)
 		(effects
 			(font
-				(face "BankGothic Lt BT")
+				(face "Arial")
 				(size 5.08 5.08)
 				(bold yes)
 			)

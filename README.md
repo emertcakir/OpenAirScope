@@ -7,15 +7,14 @@ EMC
 
 
 ### PCB 3D
-![PCBA](docs/images/OpenAirScope.png)
-![PCBA](docs/images/OpenAirScope1.PNG)
-![PCBA](docs/images/OpenAirScope2.PNG)
-![PCBA](docs/images/OpenAirScopeB.png)
-
-
-### PCB Layout
-![Layout](docs/images/PCB.PNG)
-![Layout](docs/images/layout.PNG)
+![PCBA](docs/images/OpenAirScope1.png)
+![PCBA](docs/images/OpenAirScope2.png)
+![PCBA](docs/images/OpenAirScope3.png)
+![PCBA](docs/images/OpenAirScope4.png)
+![PCBA](docs/images/lay1.PNG)
+![PCBA](docs/images/lay2.PNG)
+![PCBA](docs/images/lay3.PNG)
+![PCBA](docs/images/lay4.PNG)
 
 ## Features
 

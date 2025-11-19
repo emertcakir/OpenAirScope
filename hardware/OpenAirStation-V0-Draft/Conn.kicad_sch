@@ -11399,7 +11399,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/sn65hvd230.pdf"
-			(at 335.534 249.682 0)
+			(at 330.454 244.856 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17545,7 +17545,7 @@
 			)
 		)
 		(property "Datasheet" "https://datasheets.maximintegrated.com/en/ds/MAX3483-MAX3491.pdf"
-			(at 358.902 264.668 0)
+			(at 340.868 246.888 0)
 			(effects
 				(font
 					(size 1.27 1.27)

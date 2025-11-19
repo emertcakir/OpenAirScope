@@ -515,9 +515,9 @@
       "plot": "../../docs/gerber/",
       "pos_files": "../../../../../pcbway/",
       "specctra_dsn": "../../docs/pcb_doc/OpenAirScope.dsn",
-      "step": "../../docs/mechanical/OpenAirScope.step",
+      "step": "../../../../../OpenAirScope.step",
       "svg": "",
-      "vrml": "../../docs/pcb_doc/OpenAirScope.wrl"
+      "vrml": "../../../../../OpenAirScope.wrl"
     },
     "page_layout_descr_file": ""
   },
