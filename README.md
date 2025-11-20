@@ -81,6 +81,10 @@ EMC
 * Long-range LoRaWAN field applications
 * Research and education projects
 
+<a href="https://www.pcbway.com/project/shareproject/OpenAirScope_Open_Source_Environmental_Monitoring_Air_Quality_Node_39ce8042.html">
+  <img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" />
+</a>
+
 ## Contributing
 
 This project is open source. Contributions are welcome for new sensor support, software development, or documentation improvements. You can submit pull requests or open issues.
