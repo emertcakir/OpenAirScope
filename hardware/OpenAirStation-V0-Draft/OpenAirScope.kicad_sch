@@ -1,7 +1,7 @@
 (kicad_sch
-	(version 20250114)
+	(version 20260306)
 	(generator "eeschema")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(uuid "284addbb-b098-43ee-995a-042fddb126fa")
 	(paper "A3")
 	(title_block
@@ -759,12 +759,13 @@
 			(color 132 132 0 1)
 		)
 		(fill
-			(color 132 132 0 0.1000)
+			(color 132 132 0 0.1)
 		)
 		(uuid "0843342f-a866-4a84-93d0-8302bb966744")
 		(property "Sheetname" "MCU"
 			(at 149.86 26.7966 0)
 			(show_name yes)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.905 1.905)
@@ -775,6 +776,7 @@
 		(property "Sheetfile" "MCU.kicad_sch"
 			(at 149.86 263.5889 0)
 			(show_name yes)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1414,12 +1416,13 @@
 			(color 132 0 0 1)
 		)
 		(fill
-			(color 132 0 0 0.1000)
+			(color 132 0 0 0.1)
 		)
 		(uuid "13f48eb0-9287-43f9-a180-7602385f6b34")
 		(property "Sheetname" "Power"
 			(at 87.63 28.0666 0)
 			(show_name yes)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.905 1.905)
@@ -1430,6 +1433,7 @@
 		(property "Sheetfile" "Power.kicad_sch"
 			(at 87.63 60.3889 0)
 			(show_name yes)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1519,12 +1523,13 @@
 			(color 0 194 194 1)
 		)
 		(fill
-			(color 0 194 194 0.1000)
+			(color 0 194 194 0.1)
 		)
 		(uuid "707bb38c-4ffc-4310-9eb8-22883a2a1be7")
 		(property "Sheetname" "Conn"
 			(at 62.23 64.8966 0)
 			(show_name yes)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.905 1.905)
@@ -1535,6 +1540,7 @@
 		(property "Sheetfile" "Conn.kicad_sch"
 			(at 62.23 172.1489 0)
 			(show_name yes)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1784,12 +1790,13 @@
 			(color 204 102 0 1)
 		)
 		(fill
-			(color 204 102 0 0.1000)
+			(color 204 102 0 0.1)
 		)
 		(uuid "9769b1c9-331c-4926-8ccb-0dfa1f6f54e5")
 		(property "Sheetname" "Sensors"
 			(at 297.18 25.5266 0)
 			(show_name yes)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.905 1.905)
@@ -1800,6 +1807,7 @@
 		(property "Sheetfile" "AirSensors.kicad_sch"
 			(at 297.18 114.9989 0)
 			(show_name yes)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1949,12 +1957,13 @@
 			(color 0 72 0 1)
 		)
 		(fill
-			(color 0 72 0 0.1000)
+			(color 0 72 0 0.1)
 		)
 		(uuid "d7aa0122-6b3a-4516-b9e9-5def2eb68d1c")
 		(property "Sheetname" "Display-RTC"
 			(at 297.18 119.5066 0)
 			(show_name yes)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.905 1.905)
@@ -1965,6 +1974,7 @@
 		(property "Sheetfile" "Display-RTC.kicad_sch"
 			(at 297.18 245.8089 0)
 			(show_name yes)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2173,12 +2183,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "db6ddb56-8323-4ac0-82d9-4516ce99d2d0")
 		(property "Sheetname" "OpenAirStation-V0-Draft"
 			(at 373.38 220.2684 0)
 			(show_name yes)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2189,6 +2200,7 @@
 		(property "Sheetfile" "OpenAirScope_N.kicad_sch"
 			(at 373.38 240.6146 0)
 			(show_name yes)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2217,12 +2229,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "e0ebc876-bf00-49ae-8a0d-77b8f7191d09")
 		(property "Sheetname" "Indicators"
 			(at 62.23 179.3109 0)
 			(show_name yes)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.905 1.905)
@@ -2233,6 +2246,7 @@
 		(property "Sheetfile" "untitled.kicad_sch"
 			(at 62.23 248.2346 0)
 			(show_name yes)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
